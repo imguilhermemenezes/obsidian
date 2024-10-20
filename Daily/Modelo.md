@@ -7,4 +7,5 @@
 - [ ] 07:30 Estudar __Inglês__
 - [ ] 08:00 Tomar café
 - [ ] 08:30 Estudar Programação
-- [ ] 10:50 Buscar o 
+- [ ] 10:50 Buscar meu irmão da escola
+- [ ] 
