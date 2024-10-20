@@ -1,0 +1,23 @@
+---
+
+kanban-plugin: board
+
+---
+
+## Projetos
+
+- [ ] [[To-Do List com Streaks]]
+
+
+## Daily
+
+- [ ] - [ ] [[2024-10-20]]
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"board","list-collapse":[false,false]}
+```
+%%

@@ -1,0 +1,1 @@
+A casa de Kevin me trazem muitas boas recordações da infância como vídeo VHS, bolinha de gude, decoração de natal, músicas de natal. Eu adoro [[Cultura Vintage]]

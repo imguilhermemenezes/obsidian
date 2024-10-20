@@ -1,0 +1,1 @@
+Essa é minha segunda anotação usando o Obsidian. A minha primeira anotação foi a [[First Note]]

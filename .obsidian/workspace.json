@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "38234babc69d3b43",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8c87104ab6adcc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19b96807df1f28c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-10-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-20"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "073f25bd1437b8d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c2e2bbc275a2fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a960fa84820cc80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "3529afd4470e5f2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Atividades",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "70dedda94efa0b68",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfa14fcf0dad3fe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d13dd8b004efb1e3",
+        "type": "tabs",
+        "dimension": 59.83796296296296,
+        "children": [
+          {
+            "id": "194100132ccb019d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4090e60ce9ba673b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Agenda.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Agenda"
+            }
+          },
+          {
+            "id": "c0277cb6ffe0e52c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cfde3692ccca2daf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Agenda.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Agenda"
+            }
+          },
+          {
+            "id": "18eb8dc0eccb9603",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7757d29abd1703ea",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1e16a72c14291964",
+        "type": "tabs",
+        "dimension": 40.16203703703704,
+        "children": [
+          {
+            "id": "04f2103f080dd055",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Criar nova nota única": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "obsidian-audio-notes:Quick Audio Note with Transcription": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "19b96807df1f28c7",
+  "lastOpenFiles": [
+    "To-Do List com Streaks.md",
+    "Agenda.md",
+    "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
+    "Aprendendo Obsidian/4 Tipos de Notas.md",
+    "Aprendendo Obsidian/First Note.md",
+    "Aprendendo Obsidian/Second Note.md",
+    "Aprendendo Obsidian/Minimalismo 90s.md",
+    "Aprendendo Obsidian/Home Alone.md",
+    "Aprendendo Obsidian/Cultura Vintage.md",
+    "Aprender a aprender - 5 passos.md",
+    "Daily/2024-10-20.md",
+    "Daily/Modelo.md",
+    "Daily",
+    "Sem título.canvas",
+    "Programação/Git e GitHub/GitHub.md",
+    "Programação/Git e GitHub/Git.md",
+    "Programação/Fullstack/HTML/Tags.md",
+    "Programação/Git e GitHub",
+    "Programação/Fullstack/HTML/Kanban sem título.md",
+    "Imgs/Pasted image 20241018203742.png",
+    "Imgs/Pasted image 20241018203240.png",
+    "Imgs/Pasted image 20241018201243.png",
+    "Imgs/Pasted image 20241018200912.png",
+    "Imgs/Pasted image 20241018200848.png",
+    "Imgs/Pasted image 20241018200710.png",
+    "Imgs/Pasted image 20241018200416.png",
+    "Imgs/Pasted image 20241018200449.png",
+    "Imgs/Pasted image 20241018200536.png",
+    "Imgs",
+    "Imgs/Pasted image 20241018195944.png",
+    "Faculdade/Arquitetura e Organização de Computadores",
+    "Welcome.md",
+    "Programação/Fullstack/JavaScript",
+    "Programação/Fullstack/HTML",
+    "Programação/Fullstack/CSS",
+    "Programação/Fullstack",
+    "Programação",
+    "Faculdade"
+  ]
+}
