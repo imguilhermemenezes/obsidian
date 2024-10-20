@@ -1,17 +1,26 @@
-
 ### Manhã
 
 - [ ] 06:00 Acordar
 - [ ] 06:40 Levar meu irmão para a escola
 - [ ] 07:20 Tomar banho
-- [ ] 07:30 Estudar __inglês
-- [ ] 08:00 Tomar café
-- [ ] 08:30 Estudar __Programação
+- [ ] 07:30 Ir para a academia
+- [ ] 09:00 Tomar café
+- [ ] 09:30 Estudar __inglês
+- [ ] 10:00 Procrastinar
 - [ ] 10:50 Buscar meu irmão da escola
 - [ ] 11:30 Afazer em casa
 - [ ] 12:00 Almoçar
 
 ### Tarde
 
-- [ ] 13:00 Procrastina
-- [ ] 14:00 Estudar __desenho | educação financeira
+- [ ] 13:00 Estudar __desenho | educação financeira
+- [ ] 14:00 Estudar __Programação
+- [ ] 16:00 Me arrumar para a faculdade
+- [ ] 16:50 Sair para a faculdade
+
+### Noite
+
+- [ ] 22:00 Chegar em casa e tomar banho
+- [ ] 22:30 Estudar __coreano
+- [ ] 23:00 Procrastinar
+- [ ] 00:00 Ir mimir
