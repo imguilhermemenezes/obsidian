@@ -13,14 +13,14 @@
 
 ### Tarde
 
-- [ ] 13:00 Estudar __desenho | educação financeira
+- [ ] 12:30 Estudar __desenho | educação financeira
 - [ ] 14:00 Estudar __Programação
 - [ ] 16:00 Me arrumar para a faculdade
 - [ ] 16:50 Sair para a faculdade
 
 ### Noite
 
-- [ ] 22:00 Chegar em casa e tomar banho
+- [ ] 22:00 Chegar em casa, tomar banho e Jantar
 - [ ] 22:30 Estudar __coreano
 - [ ] 23:00 Procrastinar
-- [ ] 00:00 Ir mimir
+- [ ] 00:00 Dormir

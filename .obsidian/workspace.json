@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Modelo Semana.md",
+                "file": "Daily/2024-10-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modelo Semana"
+              "title": "2024-10-21"
             }
           }
         ]
@@ -173,10 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/Modelo Semana.md"
+                "file": "Daily/2024-10-21.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Modelo Semana"
+              "title": "Sumário de 2024-10-21"
             }
           }
         ],
@@ -221,6 +221,7 @@
   },
   "active": "19b96807df1f28c7",
   "lastOpenFiles": [
+    "Daily/Modelo Semana.md",
     "Daily/2024-10-21.md",
     "Daily/Sem título.md",
     "To-Do List com Streaks.md",
@@ -233,7 +234,6 @@
     "Aprendendo Obsidian/Home Alone.md",
     "Aprendendo Obsidian/Cultura Vintage.md",
     "Aprender a aprender - 5 passos.md",
-    "Daily/Modelo Semana.md",
     "Daily",
     "Sem título.canvas",
     "Programação/Git e GitHub/GitHub.md",
