@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "15349f8a86809d63",
+        "id": "593b6752db2aaa99",
         "type": "tabs",
         "children": [
           {
-            "id": "698a8ae653c70985",
+            "id": "70057b2b6aee6ee9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Programação/Fullstack/HTML/O que é HTML.md",
-                "mode": "source",
-                "source": false
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -97.5,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "O que é HTML"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
             }
           }
         ]
@@ -86,7 +89,7 @@
       {
         "id": "d13dd8b004efb1e3",
         "type": "tabs",
-        "dimension": 59.83796296296296,
+        "dimension": 23.174971031286212,
         "children": [
           {
             "id": "194100132ccb019d",
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Fullstack/HTML/O que é HTML.md",
+                "file": "Daily/Modelo Semana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para O que é HTML"
+              "title": "Links inversos para Modelo Semana"
             }
           },
           {
@@ -169,24 +172,41 @@
             }
           },
           {
-            "id": "cfde3692ccca2daf",
+            "id": "6327c925a11b56b7",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Programação/Fullstack/HTML/O que é HTML.md"
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de O que é HTML"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ],
         "currentTab": 6
       },
       {
+        "id": "63f158ecb785a84f",
+        "type": "tabs",
+        "dimension": 36.616454229432215,
+        "children": [
+          {
+            "id": "cfde3692ccca2daf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20241020220856.png"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Pasted image 20241020220856"
+            }
+          }
+        ]
+      },
+      {
         "id": "1e16a72c14291964",
         "type": "tabs",
-        "dimension": 40.16203703703704,
+        "dimension": 40.20857473928158,
         "children": [
           {
             "id": "04f2103f080dd055",
@@ -220,10 +240,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "698a8ae653c70985",
+  "active": "70057b2b6aee6ee9",
   "lastOpenFiles": [
-    "Programação/Fullstack/HTML/O que é HTML.md",
+    "Pasted image 20241020220856.png",
     "Daily/Modelo Semana.md",
+    "Sem título.canvas",
+    "Daily/2024-10-20.md",
+    "Programação/Fullstack/HTML/O que é HTML.md",
+    "Programação/Fullstack/HTML/Tag.md",
     "Daily/2024-10-21.md",
     "Daily/Sem título.md",
     "To-Do List com Streaks.md",
@@ -237,10 +261,8 @@
     "Aprendendo Obsidian/Cultura Vintage.md",
     "Aprender a aprender - 5 passos.md",
     "Daily",
-    "Sem título.canvas",
     "Programação/Git e GitHub/GitHub.md",
     "Programação/Git e GitHub/Git.md",
-    "Programação/Fullstack/HTML/Tags.md",
     "Programação/Git e GitHub",
     "Programação/Fullstack/HTML/Kanban sem título.md",
     "Imgs/Pasted image 20241018203742.png",

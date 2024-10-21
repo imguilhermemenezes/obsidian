@@ -24,7 +24,7 @@ Um documento HTML tem uma estrutura básica. Aqui está um exemplo simples:
 ### Explicação da Estrutura
 
 1. **`<!DOCTYPE html>`**: Declara que este documento é um arquivo HTML5.
-2. **`<html>`**: A tag raiz que envolve todo o conteúdo da página.
+2. **`<html>`**: A [[Tag]] raiz que envolve todo o conteúdo da página.
 3. **`<head>`**: Contém informações sobre o documento, como o título e os metadados.
     - **`<meta charset="UTF-8">`**: Define a codificação de caracteres.
     - **`<meta name="viewport" content="width=device-width, initial-scale=1.0">`**: Define a responsividade da página.
