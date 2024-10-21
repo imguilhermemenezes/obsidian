@@ -11,17 +11,14 @@
             "id": "70057b2b6aee6ee9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sem título.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -97.5,
-                  "zoom": 0
-                }
+                "file": "Daily/2024-10-21.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título"
+              "icon": "lucide-file",
+              "title": "2024-10-21"
             }
           }
         ]
@@ -195,10 +192,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20241020220856.png"
+                "file": "Daily/2024-10-21.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Pasted image 20241020220856"
+              "title": "Sumário de 2024-10-21"
             }
           }
         ]
