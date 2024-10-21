@@ -1,6 +1,6 @@
 ### Manhã
 
-- [ ] 06:00 Acordar
+- [ ] 06:00 Acordar e Tomar Banho
 - [ ] 06:40 Levar meu irmão para a escola
 - [ ] 07:20 Tomar banho
 - [ ] 07:30 Ir para a academia
