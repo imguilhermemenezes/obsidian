@@ -212,7 +212,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "1e16a72c14291964",
@@ -251,7 +252,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c064118be23a8eb",
+  "active": "7757d29abd1703ea",
   "lastOpenFiles": [
     "Daily/2024-10-21.md",
     "Faculdade/Cálculo/Aula - 2024-10-21.md",
