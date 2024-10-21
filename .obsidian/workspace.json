@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/Rascunho.md",
+                "file": "Rascunhos/2024-10-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rascunho"
+              "title": "2024-10-21"
             }
           }
         ]
@@ -192,10 +192,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programação/Rascunho.md"
+                "file": "Rascunhos/2024-10-21.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Rascunho"
+              "title": "Sumário de 2024-10-21"
             }
           }
         ]
@@ -239,8 +239,9 @@
   },
   "active": "70057b2b6aee6ee9",
   "lastOpenFiles": [
+    "Rascunhos",
     "Daily/2024-10-21.md",
-    "Programação/Rascunho.md",
+    "Rascunhos/2024-10-21.md",
     "Programação/Fullstack/HTML/Tag.md",
     "Programação/Fullstack/HTML/O que é HTML.md",
     "Daily/Modelo Semana.md",
