@@ -9,6 +9,7 @@ Quando estamos falando de testes automatizados, alguns conceitos são importante
 
 Como explicado anteriormente, consiste em seguir um fluxo onde o teste é escrito primeiro, falha, implementa a funcionalidade, o teste passa, melhora ou refatora a funcionalidade, sempre repetindo esse fluxo. Lembrando que a ordem do fluxo é importante, mas não obrigatório, desde que os testes sejam criados garantindo a confiabilidade do que foi implementado.
 
+![[Pasted image 20241021120735.png]]
 ### Coverage - Cobertura de Testes
 ## Sumário
 
