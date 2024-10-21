@@ -7,8 +7,9 @@ Quando estamos falando de testes automatizados, alguns conceitos são importante
 
 ### Ciclo de vida do TDD
 
+Como explicado anteriormente, consiste em seguir um fluxo onde o teste é escrito primeiro, falha, implementa a funcionalidade, o teste passa, melhora ou refatora a funcionalidade, sempre repetindo esse fluxo. Lembrando que a ordem do fluxo é importante, mas não obrigatório, desde que os testes sejam criados garantindo a confiabilidade do que foi implementado.
 
-
+### Coverage - Cobertura de Testes
 ## Sumário
 
 - [[1 - Introdução]]
