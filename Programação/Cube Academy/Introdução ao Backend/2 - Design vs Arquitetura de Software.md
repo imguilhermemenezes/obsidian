@@ -1,28 +1,3 @@
-## Introdução ao Backend
-
-### Sistema Backend
-
-#### Assuntos abordados
-
-- TDD - Test Driven Development
-- DDD - Domain Driven Design
-- Clean Architecture
-
-### Principais Tecnologias e Ferramentas Utilizadas
-
-- NodeJS
-- TypeScript
-- Postgres
-- NestJS
-- Jest
-- Prisma
-
----
-Fala galera, blz?
-
-Preparei esse documento para te auxiliar na compreensão de alguns assuntos ao longo do curso. A ideia desse projeto é introduzir o desenvolvimento de aplicações escaláveis, complexas e bem estruturadas, repleto de conceitos que podem parecer um pouco complicados à primeira vista, mas com paciência e dedicação, tenho certeza de que você vai dominá-las. Vamos lá!
-
-### Design vs Arquitetura de Software
 
 <p style="border-left: 2px solid black; padding-left: 10px;">Sim, esse é o conceito que confunde muito quando estamos analisando e construindo um software. Quando pensamos na arquitetura? Quando pensamos no design? É importante entender como pensar de forma isolada em cada parte do software pode nos trazer clareza sobre o problema que estamos resolvendo.</p>
 
@@ -36,4 +11,10 @@ Trazendo a mesma analogia da casa, a arquitetura é a estrutura da casa, como as
 
 Essa comparação entre design e arquitetura de software é importante para o projeto que vamos construir, pois vamos abordar dois conceitos: __DDD (Domain Driven Design)__, que lida com o design do software e na analogia da casa, representa toda organização 
 
-### TDD - Test Driven Development
+## Sumário
+
+- [[1 - Introdução]]
+- [[2 - Design vs Arquitetura de Software]]
+- [[3 - TDD - Test Driven Development]]
+- [[4 - DDD - Domain Driven Design]]
+- [[5 - Clean Architeture]]
