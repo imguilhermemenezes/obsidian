@@ -110,11 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Faculdade/Cálculo/Aula - 2024-10-21.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Sumário de Aula - 2024-10-21"
+              "title": "Sumário"
             }
           },
           {
@@ -236,10 +234,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cfde3692ccca2daf",
+  "active": "6c12d3f7760ce955",
   "lastOpenFiles": [
-    "Daily/2024-10-21.md",
     "Faculdade/Cálculo/Aula - 2024-10-21.md",
+    "Daily/2024-10-21.md",
     "Imgs/Pasted image 20241021120735.png",
     "Faculdade/Cálculo",
     "Programação/Cube Academy/Introdução ao Backend/4 - DDD - Domain Driven Design.md",
