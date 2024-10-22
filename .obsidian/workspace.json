@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-10-21.md",
+                "file": "Daily/2024-10-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-21"
+              "title": "2024-10-22"
             }
           }
         ]
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-10-21.md"
+                "file": "Daily/2024-10-22.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2024-10-21"
+              "title": "Sumário de 2024-10-22"
             }
           },
           {
@@ -238,11 +238,13 @@
   },
   "active": "39e12353c8fedab2",
   "lastOpenFiles": [
+    "Daily/2024-10-21.md",
+    "Daily/Modelo Semana.md",
+    "Daily/2024-10-22.md",
     "Faculdade/Cálculo/Aula - 2024-10-21.md",
     "Agenda.md",
     "Aprender a aprender - 5 passos.md",
     "To-Do List com Streaks.md",
-    "Daily/2024-10-21.md",
     "Imgs/Pasted image 20241021120735.png",
     "Faculdade/Cálculo",
     "Programação/Cube Academy/Introdução ao Backend/4 - DDD - Domain Driven Design.md",
@@ -257,7 +259,6 @@
     "Rascunhos",
     "Programação/Fullstack/HTML/Tag.md",
     "Programação/Fullstack/HTML/O que é HTML.md",
-    "Daily/Modelo Semana.md",
     "Pasted image 20241020220856.png",
     "Sem título.canvas",
     "Daily/2024-10-20.md",
