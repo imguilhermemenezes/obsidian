@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financeiro/1 - Fundamentos/Introdução à Educação Financeira.md",
+                "file": "Financeiro/1 - Fundamentos/Reserva de Emergência.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introdução à Educação Financeira"
+              "title": "Reserva de Emergência"
             }
           }
         ]
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financeiro/1 - Fundamentos/Introdução à Educação Financeira.md"
+                "file": "Financeiro/1 - Fundamentos/Reserva de Emergência.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Introdução à Educação Financeira"
+              "title": "Sumário de Reserva de Emergência"
             }
           },
           {
@@ -238,9 +238,12 @@
   },
   "active": "39e12353c8fedab2",
   "lastOpenFiles": [
+    "Financeiro/1 - Fundamentos/Introdução à Educação Financeira.md",
+    "Financeiro/1 - Fundamentos/Reserva de Emergência.md",
+    "Financeiro/1 - Fundamentos/Orçamento Pessoal e Familiar.md",
+    "Financeiro/1 - Fundamentos/Sem título.md",
     "Financeiro/1 - Fundamentos",
     "Daily/2024-10-22.md",
-    "Financeiro/1 - Fundamentos/Introdução à Educação Financeira.md",
     "Financeiro",
     "Daily/2024-10-21.md",
     "Daily/Modelo Semana.md",
@@ -273,8 +276,6 @@
     "Aprendendo Obsidian/Home Alone.md",
     "Aprendendo Obsidian/Cultura Vintage.md",
     "Daily",
-    "Programação/Git e GitHub/GitHub.md",
-    "Programação/Git e GitHub/Git.md",
     "Programação/Git e GitHub",
     "Imgs/Pasted image 20241018203742.png",
     "Imgs/Pasted image 20241018203240.png",
@@ -284,7 +285,6 @@
     "Imgs/Pasted image 20241018200710.png",
     "Imgs/Pasted image 20241018200416.png",
     "Imgs/Pasted image 20241018200449.png",
-    "Imgs",
-    "Faculdade/Arquitetura e Organização de Computadores"
+    "Imgs"
   ]
 }

@@ -99,16 +99,13 @@ Agora, com educação financeira, você pode:
 ## Exercícios Práticos
 
 1. **Mapeamento Financeiro**:
-    
     - Liste todas as suas receitas mensais (salário, renda de investimentos, etc.).
     - Liste todas as suas despesas mensais (fixas e variáveis).
     - Compare suas receitas com suas despesas. Você está gastando mais do que ganha? Quanto sobra por mês?
 2. **Criação de um Orçamento**:
-    
     - Faça uma simulação de um orçamento pessoal com as suas despesas divididas em categorias (moradia, alimentação, lazer, etc.).
     - Defina limites para cada categoria de gastos. Por exemplo, não gastar mais de 30% com lazer.
 3. **Definição de Metas Financeiras**:
-    
     - Estabeleça uma meta financeira de curto prazo (ex: juntar dinheiro para uma viagem).
     - Estabeleça uma meta de longo prazo (ex: construir uma reserva de emergência ou poupar para um carro).
 
@@ -120,4 +117,4 @@ A educação financeira é o primeiro passo para alcançar segurança financeira
 
 ---
 
-**Na próxima aula**: Vamos aprender a criar um orçamento pessoal detalhado e entender como ele pode nos ajudar a controlar nossas finanças.
+**Na próxima aula**: Vamos aprender a criar um [[Orçamento Pessoal e Familiar]] detalhado e entender como ele pode nos ajudar a controlar nossas finanças.
