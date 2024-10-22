@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-10-22.md",
+                "file": "Financeiro/1 - Fundamentos/Introdução à Educação Financeira.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-22"
+              "title": "Introdução à Educação Financeira"
             }
           }
         ]
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-10-22.md"
+                "file": "Financeiro/1 - Fundamentos/Introdução à Educação Financeira.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2024-10-22"
+              "title": "Sumário de Introdução à Educação Financeira"
             }
           },
           {
@@ -238,9 +238,12 @@
   },
   "active": "39e12353c8fedab2",
   "lastOpenFiles": [
+    "Financeiro/1 - Fundamentos",
+    "Daily/2024-10-22.md",
+    "Financeiro/1 - Fundamentos/Introdução à Educação Financeira.md",
+    "Financeiro",
     "Daily/2024-10-21.md",
     "Daily/Modelo Semana.md",
-    "Daily/2024-10-22.md",
     "Faculdade/Cálculo/Aula - 2024-10-21.md",
     "Agenda.md",
     "Aprender a aprender - 5 passos.md",
@@ -273,7 +276,6 @@
     "Programação/Git e GitHub/GitHub.md",
     "Programação/Git e GitHub/Git.md",
     "Programação/Git e GitHub",
-    "Programação/Fullstack/HTML/Kanban sem título.md",
     "Imgs/Pasted image 20241018203742.png",
     "Imgs/Pasted image 20241018203240.png",
     "Imgs/Pasted image 20241018201243.png",
@@ -283,8 +285,6 @@
     "Imgs/Pasted image 20241018200416.png",
     "Imgs/Pasted image 20241018200449.png",
     "Imgs",
-    "Faculdade/Arquitetura e Organização de Computadores",
-    "Welcome.md",
-    "Programação/Fullstack/JavaScript"
+    "Faculdade/Arquitetura e Organização de Computadores"
   ]
 }
