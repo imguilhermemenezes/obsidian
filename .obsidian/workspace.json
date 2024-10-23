@@ -11,19 +11,14 @@
             "id": "6fa3d7bab4132842",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Agenda.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Daily/2024-10-23.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Agenda"
+              "icon": "lucide-file",
+              "title": "2024-10-23"
             }
           }
         ]
@@ -116,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agenda.md"
+                "file": "Daily/2024-10-23.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Agenda"
+              "title": "Sumário de 2024-10-23"
             }
           },
           {
@@ -244,10 +239,10 @@
   },
   "active": "6fa3d7bab4132842",
   "lastOpenFiles": [
-    "Templates/Daily Template.md",
-    "Daily/2024-10-22.md",
     "Agenda.md",
     "Daily/2024-10-23.md",
+    "Templates/Daily Template.md",
+    "Daily/2024-10-22.md",
     "Templates/Complete Task.md",
     "Daily/2024-10-24.md",
     "Daily/Modelo Semana.md",
