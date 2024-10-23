@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Financeiro/1 - Fundamentos/5. Crédito e Dívidas.md",
+                "file": "Daily/2024-10-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Crédito e Dívidas"
+              "title": "2024-10-22"
             }
           }
         ]
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Financeiro/1 - Fundamentos/5. Crédito e Dívidas.md"
+                "file": "Daily/2024-10-22.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 5. Crédito e Dívidas"
+              "title": "Sumário de 2024-10-22"
             }
           },
           {
@@ -236,11 +236,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a960fa84820cc80",
+  "active": "39e12353c8fedab2",
   "lastOpenFiles": [
+    "Financeiro/1 - Fundamentos/5. Crédito e Dívidas.md",
     "Financeiro/2 - Investimentos",
     "Financeiro/Ementa.md",
-    "Financeiro/1 - Fundamentos/5. Crédito e Dívidas.md",
     "Financeiro/1 - Fundamentos/4. Planejamento de Metas Financeiras.md",
     "Financeiro/1 - Fundamentos/1. Introdução à Educação Financeira.md",
     "Financeiro/1 - Fundamentos/3. Reserva de Emergência.md",
@@ -284,7 +284,6 @@
     "Imgs/Pasted image 20241018200848.png",
     "Imgs/Pasted image 20241018200710.png",
     "Imgs/Pasted image 20241018200416.png",
-    "Imgs/Pasted image 20241018200449.png",
-    "Imgs"
+    "Imgs/Pasted image 20241018200449.png"
   ]
 }
