@@ -11,14 +11,16 @@
             "id": "39e12353c8fedab2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Daily/2024-10-23.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban sem título.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               },
-              "icon": "lucide-file",
-              "title": "2024-10-23"
+              "icon": "lucide-trello",
+              "title": "Kanban sem título"
             }
           }
         ]
@@ -111,10 +113,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-10-23.md"
+                "file": "Kanban sem título.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2024-10-23"
+              "title": "Sumário de Kanban sem título"
             }
           },
           {
@@ -238,10 +240,12 @@
   },
   "active": "39e12353c8fedab2",
   "lastOpenFiles": [
+    "Agenda.md",
+    "Kanban sem título.md",
+    "Daily/2024-10-23.md",
     "Financeiro/Ementa.md",
     "Financeiro/1 - Fundamentos/5. Crédito e Dívidas.md",
     "Financeiro/1 - Fundamentos/4. Planejamento de Metas Financeiras.md",
-    "Daily/2024-10-23.md",
     "Daily/Modelo Semana.md",
     "Daily/2024-10-22.md",
     "Financeiro/2 - Investimentos",
@@ -252,7 +256,6 @@
     "Financeiro",
     "Daily/2024-10-21.md",
     "Faculdade/Cálculo/Aula - 2024-10-21.md",
-    "Agenda.md",
     "Aprender a aprender - 5 passos.md",
     "To-Do List com Streaks.md",
     "Imgs/Pasted image 20241021120735.png",
@@ -275,7 +278,6 @@
     "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
     "Aprendendo Obsidian/4 Tipos de Notas.md",
     "Aprendendo Obsidian/First Note.md",
-    "Aprendendo Obsidian/Second Note.md",
     "Daily",
     "Programação/Git e GitHub",
     "Imgs/Pasted image 20241018203742.png",
