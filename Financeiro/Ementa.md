@@ -43,24 +43,19 @@
 #### **Conteúdos:**
 
 1. **Introdução aos Investimentos**:
-    
     - Diferença entre poupança e investimento.
     - Perfis de investidor: conservador, moderado e arrojado.
     - Risco e retorno nos investimentos.
 2. **Investimentos em Renda Fixa**:
-    
     - Tesouro Direto, CDBs, LCIs, LCAs.
     - Como funcionam e para quem são indicados.
 3. **Investimentos em Renda Variável**:
-    
     - Ações, ETFs, fundos de investimento imobiliário (FIIs).
     - Diferença entre dividendos, valorização e volatilidade.
 4. **Diversificação de Carteira**:
-    
     - Importância de diversificar para mitigar riscos.
     - Como montar uma carteira balanceada de acordo com o perfil de risco.
 5. **Tributação e Custos dos Investimentos**:
-    
     - Imposto de Renda, IOF e taxas de corretagem.
     - Como planejar para minimizar custos.
 
