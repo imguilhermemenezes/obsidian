@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2024-10-23"
             }
+          },
+          {
+            "id": "5f566b2851cdc9cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lista de Desejos/Lista de Compras.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lista de Compras"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-10-23.md"
+                "file": "Lista de Desejos/Lista de Compras.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2024-10-23"
+              "title": "Sumário de Lista de Compras"
             }
           },
           {
@@ -239,8 +254,10 @@
   },
   "active": "7a960fa84820cc80",
   "lastOpenFiles": [
-    "Agenda.md",
     "Daily/2024-10-23.md",
+    "Lista de Desejos/Lista de Compras.md",
+    "Lista de Desejos",
+    "Agenda.md",
     "Templates/Daily Template.md",
     "Daily/2024-10-22.md",
     "Templates/Complete Task.md",
@@ -277,8 +294,6 @@
     "Programação/Fullstack/HTML/O que é HTML.md",
     "Pasted image 20241020220856.png",
     "Sem título.canvas",
-    "Daily/2024-10-20.md",
-    "Daily",
     "Imgs/Pasted image 20241018203742.png",
     "Imgs/Pasted image 20241018203240.png",
     "Imgs/Pasted image 20241018201243.png",
