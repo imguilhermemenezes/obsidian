@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiImage",
-      "LiTrendingUp",
-      "LiNotebook",
-      "LiTemplaterIcon",
-      "LiCode2"
+      "LiBookTemplate",
+      "LiPencil",
+      "LiPaintbrush",
+      "LiUniversity",
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,10 +34,11 @@
     "debugMode": false
   },
   "Daily": "LiCalendarDays",
-  "Desenho": "LiExcalidrawIcon",
+  "Desenho": "LiPencil",
   "Programação": "LiCode2",
-  "Templates": "LiTemplaterIcon",
+  "Templates": "LiBookTemplate",
   "Agenda.md": "LiNotebook",
   "Financeiro": "LiTrendingUp",
-  "Imgs": "LiImage"
+  "Imgs": "LiImage",
+  "Faculdade": "LiUniversity"
 }
