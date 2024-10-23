@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6555ffefbb968d43",
+        "id": "5623c105985665da",
         "type": "tabs",
         "children": [
           {
-            "id": "39e12353c8fedab2",
+            "id": "ad002972cb223845",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban sem título.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "Templates/Daily Template.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban sem título"
+              "icon": "lucide-file",
+              "title": "Daily Template"
             }
           }
         ]
@@ -113,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban sem título.md"
+                "file": "Templates/Daily Template.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Kanban sem título"
+              "title": "Sumário de Daily Template"
             }
           },
           {
@@ -235,18 +233,21 @@
       "obsidian-audio-notes:Quick Audio Note with Transcription": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "39e12353c8fedab2",
+  "active": "ad002972cb223845",
   "lastOpenFiles": [
-    "Agenda.md",
+    "Daily/Modelo Semana.md",
+    "Templates/Daily Template.md",
+    "Templates",
     "Kanban sem título.md",
+    "Agenda.md",
     "Daily/2024-10-23.md",
     "Financeiro/Ementa.md",
     "Financeiro/1 - Fundamentos/5. Crédito e Dívidas.md",
     "Financeiro/1 - Fundamentos/4. Planejamento de Metas Financeiras.md",
-    "Daily/Modelo Semana.md",
     "Daily/2024-10-22.md",
     "Financeiro/2 - Investimentos",
     "Financeiro/1 - Fundamentos/1. Introdução à Educação Financeira.md",
@@ -277,9 +278,7 @@
     "Daily/2024-10-20.md",
     "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
     "Aprendendo Obsidian/4 Tipos de Notas.md",
-    "Aprendendo Obsidian/First Note.md",
     "Daily",
-    "Programação/Git e GitHub",
     "Imgs/Pasted image 20241018203742.png",
     "Imgs/Pasted image 20241018203240.png",
     "Imgs/Pasted image 20241018201243.png",
