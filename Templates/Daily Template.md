@@ -23,12 +23,19 @@
 - [ ] 23:00 Procrastinar
 - [ ] 00:00 Dormir
 
+## Tarefas do Dia
+- [ ] Tarefa 1
+- [ ] Tarefa 2
+
 <%*
-// Caminho do arquivo Kanban (ajuste o nome conforme necessário)
-const kanbanFile = app.vault.getAbstractFileByPath('Agenda.md');
+// Caminho do arquivo Kanban
+const kanbanFile = app.vault.getAbstractFileByPath('../Agenda.md'); // Certifique-se de que o nome está correto
 
 // Formatar a data da nota diária
 const today = tp.date.now('yyyy/MM/dd');
+
+// Obter o título da daily note (a data)
+const title = tp.date.now('YYYY-MM-DD');
 
 // Tarefas padrão que deseja adicionar
 const tasks = `- [ ] Tarefa 1\n- [ ] Tarefa 2`;
@@ -39,12 +46,12 @@ const dailySection = `## ${today}\n${tasks}\n`;
 // Ler o conteúdo atual do arquivo Kanban
 const content = await app.vault.read(kanbanFile);
 
-// Adiciona as tarefas no arquivo Kanban
+// Criar ou atualizar o cartão no Kanban
+const taskCard = `- [ ] ${title}`; // Cartão do Kanban com o título da daily note
 if (content.includes("## Daily")) {
-    const updatedContent = content.replace("## Daily", `## Daily\n${dailySection}`);
+    const updatedContent = content.replace("## Daily", `## Daily\n${taskCard}\n${dailySection}`);
     await app.vault.modify(kanbanFile, updatedContent);
 } else {
-    await app.vault.modify(kanbanFile, content + `\n## Daily\n${dailySection}`);
+    await app.vault.modify(kanbanFile, content + `\n## Daily\n${taskCard}\n${dailySection}`);
 }
 %>
-

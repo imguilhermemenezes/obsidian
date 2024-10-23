@@ -11,7 +11,6 @@ kanban-plugin: board
 
 ## Daily
 
-- [ ] - [x] [[Daily/2024-10-21]]
 
 
 
