@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotebookPen",
       "LiAlignStartVertical",
       "LiBookTemplate",
       "LiPencil",
-      "LiPaintbrush",
-      "LiUniversity"
+      "LiPaintbrush"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "Financeiro": "LiTrendingUp",
   "Imgs": "LiImage",
   "Faculdade": "LiUniversity",
-  "Lista de Desejos": "LiAlignStartVertical"
+  "Lista de Desejos": "LiAlignStartVertical",
+  "Rascunhos": "LiNotebookPen"
 }
