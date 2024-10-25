@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2024-10-24"
             }
+          },
+          {
+            "id": "91e3e0a0e65069aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/Academia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Academia"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-10-24.md"
+                "file": "Daily/Academia.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2024-10-24"
+              "title": "Sumário de Academia"
             }
           },
           {
@@ -237,10 +252,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6fa3d7bab4132842",
+  "active": "91e3e0a0e65069aa",
   "lastOpenFiles": [
-    "Daily/2024-10-23.md",
     "Daily/2024-10-24.md",
+    "Daily/Academia.md",
+    "Daily/2024-10-23.md",
     "Lista de Desejos/Lista de Compras.md",
     "Lista de Desejos",
     "Agenda.md",
@@ -276,7 +292,6 @@
     "Programação/Cube Academy",
     "Rascunhos",
     "Programação/Fullstack/HTML/Tag.md",
-    "Programação/Fullstack/HTML/O que é HTML.md",
     "Pasted image 20241020220856.png",
     "Sem título.canvas",
     "Imgs/Pasted image 20241018203742.png",
