@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1f4966fb046f3329",
+        "id": "e827de43a1e99ef0",
         "type": "tabs",
         "children": [
           {
-            "id": "f51021b69226a90f",
+            "id": "d3dd1de9a29c59e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-10-25.md",
+                "file": "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-25"
+              "title": "Portas Lógicas"
             }
           }
         ]
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-10-25.md"
+                "file": "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2024-10-25"
+              "title": "Sumário de Portas Lógicas"
             }
           },
           {
@@ -237,8 +237,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f51021b69226a90f",
+  "active": "d3dd1de9a29c59e6",
   "lastOpenFiles": [
+    "Daily/2024-10-25.md",
     "To-Do List com Streaks.md",
     "Agenda.md",
     "Daily/2024-10-21.md",
@@ -251,7 +252,6 @@
     "Financeiro/1 - Fundamentos/1. Introdução à Educação Financeira.md",
     "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
     "Faculdade/Cálculo/Aula - 2024-10-21.md",
-    "Daily/2024-10-25.md",
     "Daily/2024-10-24.md",
     "Templates/Daily Template.md",
     "Lista de Desejos/Lista de Compras.md",
