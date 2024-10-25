@@ -97,5 +97,5 @@ As tabelas verdade são usadas para entender e descrever como as portas logicas 
 | 6   | 1   | 1   | 0   | A \* B  \* $\overline{C}$              |
 | 7   | 1   | 1   | 1   |                                        |
 	Qual é a expressão lógica mínima, na forma soma de produtos?
-	1. S1 = $\overline{A}$
+	1. S1 = $\overline{A}$ * C + A * $\overline{B}$ + A * $\overline{C}$ 
 	2. 
