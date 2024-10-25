@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-10-25.md",
+                "file": "Lista de Desejos/Lista de Compras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-25"
+              "title": "Lista de Compras"
             }
           }
         ],
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-10-25.md"
+                "file": "Lista de Desejos/Lista de Compras.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2024-10-25"
+              "title": "Sumário de Lista de Compras"
             }
           },
           {
@@ -254,8 +254,8 @@
   },
   "active": "91e3e0a0e65069aa",
   "lastOpenFiles": [
-    "Daily/Academia.md",
     "Daily/2024-10-25.md",
+    "Daily/Academia.md",
     "Daily/2024-10-24.md",
     "Daily/2024-10-23.md",
     "Lista de Desejos/Lista de Compras.md",
