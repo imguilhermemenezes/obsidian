@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
+                "file": "Daily/2024-10-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Portas Lógicas"
+              "title": "2024-10-26"
             }
           }
         ]
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md"
+                "file": "Daily/2024-10-26.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Portas Lógicas"
+              "title": "Sumário de 2024-10-26"
             }
           },
           {
@@ -239,6 +239,8 @@
   },
   "active": "d3dd1de9a29c59e6",
   "lastOpenFiles": [
+    "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
+    "Daily/2024-10-26.md",
     "Daily/2024-10-25.md",
     "To-Do List com Streaks.md",
     "Agenda.md",
@@ -250,7 +252,6 @@
     "Financeiro/1 - Fundamentos/3. Reserva de Emergência.md",
     "Financeiro/1 - Fundamentos/2. Orçamento Pessoal e Familiar.md",
     "Financeiro/1 - Fundamentos/1. Introdução à Educação Financeira.md",
-    "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
     "Faculdade/Cálculo/Aula - 2024-10-21.md",
     "Daily/2024-10-24.md",
     "Templates/Daily Template.md",
@@ -271,7 +272,6 @@
     "Faculdade/Cálculo",
     "Programação/Cube Academy/Introdução ao Backend/4 - DDD - Domain Driven Design.md",
     "Programação/Cube Academy/Introdução ao Backend/3 - TDD - Test Driven Development.md",
-    "Programação/Cube Academy/Introdução ao Backend/5 - Clean Architeture.md",
     "Rascunhos",
     "Programação/Cube Academy/Introdução ao Backend",
     "Programação/Cube Academy/Sem título.canvas",
