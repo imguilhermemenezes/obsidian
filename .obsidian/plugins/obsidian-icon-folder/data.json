@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🍲",
       "LiNotebookPen",
       "LiAlignStartVertical",
       "LiBookTemplate",
-      "LiPencil",
-      "LiPaintbrush"
+      "LiPencil"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,6 @@
   "Imgs": "LiImage",
   "Faculdade": "LiUniversity",
   "Lista de Desejos": "LiAlignStartVertical",
-  "Rascunhos": "LiNotebookPen"
+  "Rascunhos": "LiNotebookPen",
+  "Receitas": "🍲"
 }
