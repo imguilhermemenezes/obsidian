@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e827de43a1e99ef0",
+        "id": "fc68740018bb060d",
         "type": "tabs",
         "children": [
           {
-            "id": "d3dd1de9a29c59e6",
+            "id": "3e09c6e02315a8e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-10-28.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-10-28"
+              "title": "Nova aba"
             }
           }
         ]
@@ -110,11 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily/2024-10-28.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Sumário de 2024-10-28"
+              "title": "Sumário"
             }
           },
           {
@@ -237,10 +231,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d3dd1de9a29c59e6",
+  "active": "3e09c6e02315a8e7",
   "lastOpenFiles": [
-    "Daily/2024-10-27.md",
     "Daily/2024-10-28.md",
+    "Daily/2024-10-27.md",
     "Receitas",
     "Daily/2024-10-26.md",
     "Daily/2024-10-25.md",
