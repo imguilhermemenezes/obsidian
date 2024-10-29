@@ -110,11 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Faculdade/Cálculo/Aula - 2024-10-28.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Sumário de Aula - 2024-10-28"
+              "title": "Sumário"
             }
           },
           {
@@ -237,10 +235,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e09c6e02315a8e7",
+  "active": "6c12d3f7760ce955",
   "lastOpenFiles": [
-    "Faculdade/Cálculo/Aula - 2024-10-21.md",
     "Faculdade/Cálculo/Aula - 2024-10-28.md",
+    "Faculdade/Cálculo/Aula - 2024-10-21.md",
     "Daily/2024-10-28.md",
     "Daily/2024-10-27.md",
     "Receitas",
