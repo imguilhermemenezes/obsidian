@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-11-01.md",
+                "file": "Daily/Academia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-01"
+              "title": "Academia"
             }
           }
         ]
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-11-01.md"
+                "file": "Daily/Academia.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2024-11-01"
+              "title": "Sumário de Academia"
             }
           },
           {
@@ -239,8 +239,8 @@
   },
   "active": "7a31b75d71093363",
   "lastOpenFiles": [
-    "Daily/2024-10-31.md",
     "Daily/2024-11-01.md",
+    "Daily/2024-10-31.md",
     "Daily/2024-10-30.md",
     "Daily/2024-10-29.md",
     "Daily/2024-10-28.md",
