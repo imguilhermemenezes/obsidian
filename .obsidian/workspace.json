@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Academia.md",
+                "file": "Daily/2024-11-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Academia"
+              "title": "2024-11-02"
+            }
+          },
+          {
+            "id": "ceb92101376dfbaa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-02 11.01.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-02 11.01.15.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,10 +124,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/Academia.md"
+                "file": "Excalidraw/Drawing 2024-11-02 11.01.15.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Academia"
+              "title": "Sumário de Drawing 2024-11-02 11.01.15.excalidraw"
             }
           },
           {
@@ -237,8 +250,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a31b75d71093363",
+  "active": "ceb92101376dfbaa",
   "lastOpenFiles": [
+    "Daily/2024-11-02.md",
+    "Excalidraw/Drawing 2024-11-02 11.01.15.excalidraw.md",
+    "Excalidraw",
+    "Daily/Academia.md",
     "Daily/2024-11-01.md",
     "Daily/2024-10-31.md",
     "Daily/2024-10-30.md",
@@ -263,9 +280,6 @@
     "Financeiro/1 - Fundamentos/1. Introdução à Educação Financeira.md",
     "Daily/2024-10-24.md",
     "Templates/Daily Template.md",
-    "Lista de Desejos/Lista de Compras.md",
-    "Daily/Academia.md",
-    "Daily/2024-10-23.md",
     "Lista de Desejos",
     "Templates",
     "Financeiro/2 - Investimentos",
@@ -276,7 +290,6 @@
     "Rascunhos",
     "Programação/Cube Academy/Introdução ao Backend",
     "Programação/Cube Academy/Sem título.canvas",
-    "Programação/Cube Academy",
     "Pasted image 20241020220856.png",
     "Sem título.canvas",
     "Imgs/Pasted image 20241018203742.png",
