@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Aula - 2024-11-04"
             }
+          },
+          {
+            "id": "003753371e077de8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-04 19.56.01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-04 19.56.01.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Cálculo/Aula - 2024-11-04.md"
+                "file": "Excalidraw/Drawing 2024-11-04 19.56.01.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Aula - 2024-11-04"
+              "title": "Sumário de Drawing 2024-11-04 19.56.01.excalidraw"
             }
           },
           {
@@ -252,10 +264,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68541495b55f61ba",
+  "active": "003753371e077de8",
   "lastOpenFiles": [
-    "Faculdade/Cálculo/Aula - 2024-10-28.md",
     "Faculdade/Cálculo/Aula - 2024-11-04.md",
+    "Excalidraw/Drawing 2024-11-04 19.56.01.excalidraw.md",
+    "Faculdade/Cálculo/Aula - 2024-10-28.md",
     "Daily/2024-11-04.md",
     "Daily/2024-11-02.md",
     "Excalidraw/Drawing 2024-11-02 11.01.15.excalidraw.md",
@@ -281,7 +294,6 @@
     "Financeiro/1 - Fundamentos/4. Planejamento de Metas Financeiras.md",
     "Financeiro/1 - Fundamentos/3. Reserva de Emergência.md",
     "Financeiro/1 - Fundamentos/2. Orçamento Pessoal e Familiar.md",
-    "Financeiro/1 - Fundamentos/1. Introdução à Educação Financeira.md",
     "Lista de Desejos",
     "Templates",
     "Financeiro/2 - Investimentos",
