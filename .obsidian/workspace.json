@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-11-04.md",
+                "file": "Faculdade/Cálculo/Aula - 2024-10-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-04"
+              "title": "Aula - 2024-10-28"
             }
           }
         ]
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-11-04.md"
+                "file": "Faculdade/Cálculo/Aula - 2024-10-28.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2024-11-04"
+              "title": "Sumário de Aula - 2024-10-28"
             }
           },
           {
@@ -239,8 +239,8 @@
   },
   "active": "029c4166c8105b81",
   "lastOpenFiles": [
-    "Daily/2024-11-02.md",
     "Daily/2024-11-04.md",
+    "Daily/2024-11-02.md",
     "Excalidraw/Drawing 2024-11-02 11.01.15.excalidraw.md",
     "Excalidraw",
     "Daily/Academia.md",
