@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "Aula - 2024-11-04"
             }
-          },
-          {
-            "id": "68541495b55f61ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-11-04 19.56.01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-04 19.56.01.excalidraw"
-            }
           }
         ]
       }
@@ -251,9 +239,10 @@
   },
   "active": "029c4166c8105b81",
   "lastOpenFiles": [
-    "Faculdade/Cálculo/Aula - 2024-10-28.md",
     "Excalidraw/Drawing 2024-11-04 19.56.01.excalidraw.md",
     "Faculdade/Cálculo/Aula - 2024-11-04.md",
+    "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
+    "Faculdade/Cálculo/Aula - 2024-10-28.md",
     "Daily/2024-11-04.md",
     "Daily/2024-11-02.md",
     "Excalidraw/Drawing 2024-11-02 11.01.15.excalidraw.md",
@@ -269,7 +258,6 @@
     "Receitas",
     "Daily/2024-10-26.md",
     "Daily/2024-10-25.md",
-    "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
     "To-Do List com Streaks.md",
     "Agenda.md",
     "Daily/2024-10-21.md",
