@@ -1,0 +1,8 @@
+1. O conceito de “multiprocessador simétrico” é definido como um tipo de arquitetura de computação paralela em que:
+	 - [ ] a) Vários processadores conectados ao mesmo barramento executam diferentes programas em paralelo e comunicam entre si por meio de protocolos de troca de mensagens.
+	 - [ ] b) Um cluster de computadores conectados via rede e regidos por um computador mestre executam diferentes programas em paralelo.
+	 - [ ] c) Vários processadores interconectados executam programas em paralelo e comunicam entre si por meio da escrita e leitura de dados em uma memória compartilhada.
+	 - [ ] d) Um processador é dividido em múltiplos estágios paralelos de processamento, cada um executando uma etapa diferente do processamento de instruções sucessivas do programa.
+2. No cenário atual da tecnologia, a arquitetura ARM de processadores tem se destacado significativamente, especialmente no contexto de dispositivos móveis, como smartphones e tablets. A popularidade desses dispositivos impulsionou o desenvolvimento e a adoção de processadores baseados na arquitetura ARM, conhecidos por sua eficiência energética e desempenho satisfatório. Além disso, a arquitetura ARM também está ganhando espaço em outras áreas, como servidores de data center e sistemas embarcados, devido à sua versatilidade e capacidade de se adaptar a uma variedade de aplicações. Com relação às características e aplicações da arquitetura ARM, analise as asserções a seguir e a relação proposta entre elas.
+3. 
+4. 

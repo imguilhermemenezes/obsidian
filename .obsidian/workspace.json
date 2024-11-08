@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Arquitetura e Organização de Computadores/Arquitetura RISC x CISC.md",
+                "file": "Faculdade/Arquitetura e Organização de Computadores/Exercícios - Arquitetura RISC x CISC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arquitetura RISC x CISC"
+              "title": "Exercícios - Arquitetura RISC x CISC"
             }
           }
         ],
@@ -99,9 +99,9 @@
     "type": "split",
     "children": [
       {
-        "id": "dc6888b6824487f4",
+        "id": "e7ef9698534eb488",
         "type": "tabs",
-        "dimension": 27.925840092699882,
+        "dimension": 28.703703703703702,
         "children": [
           {
             "id": "3e09c6e02315a8e7",
@@ -118,7 +118,7 @@
       {
         "id": "63f158ecb785a84f",
         "type": "tabs",
-        "dimension": 24.101969872537655,
+        "dimension": 31.01851851851852,
         "children": [
           {
             "id": "cfde3692ccca2daf",
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/Arquitetura e Organização de Computadores/Arquitetura RISC x CISC.md"
+                "file": "Faculdade/Arquitetura e Organização de Computadores/Exercícios - Arquitetura RISC x CISC.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de Arquitetura RISC x CISC"
+              "title": "Sumário de Exercícios - Arquitetura RISC x CISC"
             }
           },
           {
@@ -217,7 +217,7 @@
       {
         "id": "1e16a72c14291964",
         "type": "tabs",
-        "dimension": 47.972190034762455,
+        "dimension": 40.27777777777778,
         "children": [
           {
             "id": "04f2103f080dd055",
@@ -254,9 +254,10 @@
   },
   "active": "13221a9e29d508f8",
   "lastOpenFiles": [
-    "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
-    "Faculdade/Arquitetura e Organização de Computadores/Arquitetura RISC x CISC.md",
     "Daily/2024-11-08.md",
+    "Faculdade/Arquitetura e Organização de Computadores/Exercícios - Arquitetura RISC x CISC.md",
+    "Faculdade/Arquitetura e Organização de Computadores/Arquitetura RISC x CISC.md",
+    "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
     "Daily/2024-11-05.md",
     "Faculdade/Cálculo/Aula - 2024-10-21.md",
     "Faculdade/Cálculo/Aula - 2024-10-28.md",
@@ -281,7 +282,6 @@
     "Daily/2024-10-21.md",
     "Programação/Cube Academy/Introdução ao Backend/1 - Introdução.md",
     "Financeiro/Ementa.md",
-    "Financeiro/1 - Fundamentos/5. Crédito e Dívidas.md",
     "Lista de Desejos",
     "Templates",
     "Financeiro/2 - Investimentos",
