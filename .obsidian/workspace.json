@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0387db33cc51b13f",
+        "id": "511a2c9a8431a7fc",
         "type": "tabs",
         "children": [
           {
-            "id": "029c4166c8105b81",
+            "id": "761d12a783bbfd91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Cálculo/Aula - 2024-11-04.md",
+                "file": "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula - 2024-11-04"
+              "title": "Portas Lógicas"
             }
           },
           {
-            "id": "184bd17b5aa606ca",
+            "id": "13221a9e29d508f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-11-05.md",
+                "file": "Faculdade/Arquitetura e Organização de Computadores/Arquitetura RISC x CISC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-05"
+              "title": "Arquitetura RISC x CISC"
             }
           }
         ],
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-11-05.md"
+                "file": "Faculdade/Arquitetura e Organização de Computadores/Arquitetura RISC x CISC.md"
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2024-11-05"
+              "title": "Sumário de Arquitetura RISC x CISC"
             }
           },
           {
@@ -252,14 +252,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "184bd17b5aa606ca",
+  "active": "13221a9e29d508f8",
   "lastOpenFiles": [
+    "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
+    "Faculdade/Arquitetura e Organização de Computadores/Arquitetura RISC x CISC.md",
+    "Daily/2024-11-08.md",
     "Daily/2024-11-05.md",
     "Faculdade/Cálculo/Aula - 2024-10-21.md",
     "Faculdade/Cálculo/Aula - 2024-10-28.md",
     "Faculdade/Cálculo/Aula - 2024-11-04.md",
     "Excalidraw/Drawing 2024-11-04 19.56.01.excalidraw.md",
-    "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
     "Daily/2024-11-04.md",
     "Daily/2024-11-02.md",
     "Excalidraw/Drawing 2024-11-02 11.01.15.excalidraw.md",
@@ -280,8 +282,6 @@
     "Programação/Cube Academy/Introdução ao Backend/1 - Introdução.md",
     "Financeiro/Ementa.md",
     "Financeiro/1 - Fundamentos/5. Crédito e Dívidas.md",
-    "Financeiro/1 - Fundamentos/4. Planejamento de Metas Financeiras.md",
-    "Financeiro/1 - Fundamentos/3. Reserva de Emergência.md",
     "Lista de Desejos",
     "Templates",
     "Financeiro/2 - Investimentos",
