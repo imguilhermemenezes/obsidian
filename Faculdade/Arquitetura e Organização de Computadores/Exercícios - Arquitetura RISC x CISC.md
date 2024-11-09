@@ -34,5 +34,58 @@
 	- [ ] d) A paralelização usando aceleradores é menos eficaz do que a utilização de múltiplos processadores em paralelo, pois os aceleradores têm menor capacidade de processamento. 
 	- [ ] e) A aceleração usando aceleradores é limitada pela dependência de instruções, tornando difícil a utilização eficiente de múltiplos núcleos de processamento.
 6. No desenvolvimento de um sistema hipotético, optou-se por usar uma arquitetura de microprocessador com um maior conjunto de instruções, a arquitetura CISC. Com relação a arquitetura RISC, assinale a opção que apresenta uma vantagem apresentada pela CISC. 
-- [ ] a) Possui instruções mais simples. B) Suas instruções demandam menos ciclos de clock para sua execução. C) É mais rápida, pois apresenta menos formas de endereçamento. D) Permite o desenvolvimento de programas menores. E) Permite o desempenho otimizado no software.
+	- [ ] a) Possui instruções mais simples. 
+	- [ ] b) Suas instruções demandam menos ciclos de clock para sua execução. 
+	- [ ] c) É mais rápida, pois apresenta menos formas de endereçamento. 
+	- [ ] d) Permite o desenvolvimento de programas menores. 
+	- [ ] e) Permite o desempenho otimizado no software.
+7. Os processadores em geral, no que tange à sua arquitetura, podem ser classificados em dois grandes grupos: RISC e CISC. Os processadores com arquitetura: 
+	- [ ] a) RISC empregam a técnica de pipelining mais eficazmente. 
+	- [ ] b) CISC facilitam a otimização do código por compiladores.
+	- [ ] c) CISC aceitam instruções apenas de um tamanho fixo pré-determinado
+	- [ ] d) RISC tendem a ser mais complexos do ponto de vista do hardware. 
+	- [ ] e) RISC empregam microinstruções para os comandos mais complexos.
+8. A tecnologia RISC empregada em processadores, caracteriza-se principalmente por: 
+	- [ ] a) Instruções executadas pelo hardware 
+	- [ ] b) Compatibilidade de armazenamento em memória flash 
+	- [ ] c) Ausência de pipeling 
+	- [ ] d) Gerenciamento de portas USB
+9. Assinale uma característica correta de um processador de arquitetura RISC (Reduced Instruction Set Computing). 
+	- [ ] a) Usa o maior conjunto de instruções entre todos os processadores. 
+	- [ ] b) É menos comum em arquiteturas de processadores para dispositivos móveis. 
+	- [ ] c) É um processador que usa um conjunto de instruções simples, em quantidade reduzida e muito otimizada. 
+	- [ ] d) Ele não consegue determinar a quantidade e a complexidade das instruções suportadas por um chip.
+10. Considerando a arquitetura de computadores modernos, assinale a opção que descreve corretamente a relação e diferença funcional entre a Unidade Central de Processamento (CPU) e a Unidade de Processamento Gráfico (GPU). 
+	- [ ] a) A GPU substitui completamente a CPU em sistemas avançados, com a primeira realizando todas as funções computacionais, desde o processamento básico até gráficos intensivos. 
+	- [ ] b) A CPU lida com todas as operações do computador, incluindo gráficos, com a GPU agindo meramente como uma reserva de memória adicional para aumentar a capacidade. 
+	- [ ] c) A GPU é uma extensão da CPU, dedicada a otimizar o desempenho do sistema operacional e software de aplicação, sem envolvimento em processamento gráfico. 
+	- [ ] d) Enquanto a CPU executa cálculos e operações lógicas de forma sequencial para tarefas gerais, a GPU é especializada em processamento paralelo. 
+	- [ ] e) A CPU foca em tarefas gerais de computação e executa operações complexas sequencialmente, enquanto a GPU é especializada em melhorar a qualidade do áudio do sistema.
+11. As arquiteturas RISC e CISC, são amplamente conhecidas na área da computação. Desta forma, assinale a alternativa correta referente a arquitetura RISC. 
+	- [ ] a) São mais complexas, elas podem realizar várias operações de baixo nível 
+	- [ ] b) Possui ênfase na execução eficiente de instruções complexas em um único ciclo de clock 
+	- [ ] c) Prioriza a complexidade e usa um conjunto extenso de instruções para aumentar a flexibilidade na execução de operações 
+	- [ ] d) É constituída por um pequeno conjunto de instruções simples que são executadas diretamente pelo hardware, sem a intervenção de um interpretador.
+12. A arquitetura de computadores é tipicamente referenciada por arquitetura e organização de computadores, pois trata da forma como os elementos físicos de um sistema computacional estão dispostos ou organizados. Em relação à arquitetura de computadores é INCORRETO afirmar: 
+	- [ ] a) Em relação à organização, os computadores podem ser divididos em três categorias ou subsistemas: a Unidade Central de Processamento, a memória principal e o subsistema de entrada e saída. 
+	- [ ] b) A Unidade Central de Processamento, também referenciada por UCP ou CPU (Central Process Unit), é o dispositivo destinado à realização de operações sobre dados. Onde, tipicamente, está organizada em três partes: unidade de aritmética e lógica, unidade de controle e os registradores. 
+	- [ ] c) A unidade de aritmética e lógica, também conhecida pela sigla ULA, é responsável pelas atividades que envolvem operações lógicas, por exemplo, as operações AND (e), OR (ou), NOT (não) e XOR (ou exclusivo). 
+	- [ ] d) O subsistema de entrada/saída é responsável pela comunicação do computador com o mundo externo e pelo armazenamento de programas e dados 
+	- [ ] e) A arquitetura CISC (Complex Instruction Set Computer) ou computador com conjunto reduzido de instruções utiliza a estratégia de possuir um conjunto de instruções que realizam o mínimo possível de operações simples.
+13. Ao construir um novo controlador para um equipamento, um programador analisou as formas de arquitetura disponíveis para construir seu hardware, dentre elas a arquitetura de Von Neumann. A principal característica dessa arquitetura é que ela: 
+	- [ ] a) utiliza uma única memória para armazenar dados e instruções. 
+	- [ ] b) separa a memória de dados da memória de instruções. 
+	- [ ] c) utiliza múltiplos processadores para executar uma única instrução. 
+	- [ ] d) não permite a execução de instruções RISC. 
+	- [ ] e) não permite armazenamento de programas na memória.
+14. Escolha a alternativa que contém respectivamente as palavras que preenchem as lacunas a seguir. RISC significa ____________________________ (computador com conjunto de instruções reduzido), e ______________ significa Complex Instruction Set Computer (computador com conjunto de instruções complexo). Alternativas 
+	- [ ] a) CISC, Reduced Instruction Set Computer 
+	- [ ] b) Reduced Instruction Set Computer, CISC. 
+	- [ ] c) RISC, Reduced Instruction Set Computer 
+	- [ ] d) Reduced Instruction Set Component, CISC.
+15. Microprocessadores são utilizados na construção de computadores para fins diversos. Um microprocessador pode estar integrado a outros dispositivos dentro de um único circuito incluído para formar um microcontrolador. A forma como o processador de um computador acessa a memória e utiliza as informações define a sua arquitetura. As arquiteturas mais comuns são Harvard e Von Neumann. Sobre a arquitetura dos computadores, analise as afirmativas a seguir. 
+	I. Na arquitetura Von Neumann, existem diversos barramentos de acesso à memória, tanto para os dados quanto para as instruções. 
+	II. Na arquitetura Harvard, existem dois barramentos de acesso à memória – um apenas para os dados e outro para as instruções. 
+	III. Na arquitetura Von Neumann, as conexões são reduzidas, mas o tempo de processamento é prejudicado pelo compartilhamento do barramento para buscar o código do programa e os dados a serem processados. ]
+	IV. Na arquitetura Harvard, enquanto o processador executa uma instrução, outra poderá ser buscada na memória, sem interferências, o que torna o processo mais rápido.
 1. 
