@@ -88,4 +88,39 @@
 	II. Na arquitetura Harvard, existem dois barramentos de acesso à memória – um apenas para os dados e outro para as instruções. 
 	III. Na arquitetura Von Neumann, as conexões são reduzidas, mas o tempo de processamento é prejudicado pelo compartilhamento do barramento para buscar o código do programa e os dados a serem processados. ]
 	IV. Na arquitetura Harvard, enquanto o processador executa uma instrução, outra poderá ser buscada na memória, sem interferências, o que torna o processo mais rápido.
-1. 
+	Está correto o que se afirma em 
+	- [ ] a) I, II, III e IV. 
+	- [ ] b) I e II, apenas. 
+	- [ ] c) II e III, apenas. 
+	- [ ] d) III e IV, apenas. 
+	- [ ] e) II, III e IV, apenas
+16. Acerca da aritmética computacional, da memória cache e das arquiteturas RISC e CISC, julgue o item. 
+	 A arquitetura CISC é conhecida por possuir instruções complexas e multifuncionais. Entretanto, apresenta uma única desvantagem: não se permitem executar várias operações em um único comando. 
+	- [ ] Certo 
+	- [ ] Errado
+17. Acerca da aritmética computacional, da memória cache e das arquiteturas RISC e CISC, julgue o item. 
+	 Diferentemente da arquitetura CISC, a arquitetura RISC não permite a utilização do conceito de pipeline de instruções. 
+	- [ ] Certo 
+	- [ ] Errado
+18. O processador é o componente do computador responsável porexecutar as instruções e por realizar os cálculos necessários para o funcionamento do sistema. Atualmente, podese destacar duas arquiteturas de processadores predominantes: ARM e x86. Tais arquiteturas possuem diferenças significativas, tanto em relação ao poder de processamento, quanto em relação ao consumo de energia. Dadas as afirmativas sobre as arquiteturas de processadores ARM e x86, 
+	I. A arquitetura x86 é conhecida por aliar maior eficiência energética e maior poder de processamento, quando comparada à arquitetura ARM. Porém, processadores ARM possuem um menor custo de produção e, consequentemente, são mais acessíveis. 
+	II. A arquitetura x86 é amplamente utilizada em servidores e desktops devido ao seu desempenho e a sua capacidade de processamento, enquanto a arquitetura ARM é comumente encontrada em dispositivos embarcados e sistemas de baixo consumo de energia. 
+	III. A arquitetura x86 é baseada em uma estrutura de conjunto de instruções RISC (Reduced Instruction Set Computing), enquanto a arquitetura ARM é baseada em uma estrutura CISC (Complex Instruction Set Computing). 
+	Verifica-se que está/ão correta/s 
+	- [ ] a) I, apenas.
+	- [ ] b) II, apenas. 
+	- [ ] c) I e III, apenas. 
+	- [ ] d) II e III, apenas. 
+	- [ ] e) I, II e III.
+19. Em relação à arquitetura CISC, é correto afirmar que a arquitetura RISC: 
+	- [ ] a) Possui muitos modos de endereçamento. 
+	- [ ] b) Utiliza múltiplos conjuntos de registradores. 
+	- [ ] c) Trabalha com instruções de largura variável. 
+	- [ ] d) Exige vários ciclos de relógio para execução de uma instrução. 
+	- [ ] e) Executa instruções reduzidas.
+20. A arquitetura X86 ganhou ampla aceitação e penetração no mercado com advento dos computadores pessoais. Ela nasceu como uma arquitetura CISC, mas, com o passar dos anos, teve constantes evoluções e adições de extensões, de modo que é conhecida como x86-64. Sendo esta uma extensão que permitiu o aumento dos cálculos de inteiros e o tamanho do endereço virtual para 64 bits. Diante disto, a arquitetura x86-64 pode ser classificada atualmente como? 
+	- [ ] a) Cisc 
+	- [ ] b) Híbrida, isto é, contém um núcleo RISC que executa as instruções mais simples, enquanto interpreta as mais complicadas no modo CISC de sempre. 
+	- [ ] c) Risc 
+	- [ ] d) Sparc 
+	- [ ] e) Mips
