@@ -1,3 +1,4 @@
+
 ### Rank C
 - 4-6 flexões com joelhos apoiados
 - 4-6 Tríceps no banco
