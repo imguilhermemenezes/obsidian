@@ -11,10 +11,14 @@
             "id": "b26643384683b5d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-12-09.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-12-09"
             }
           }
         ]
@@ -106,9 +110,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Daily/2024-12-09.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2024-12-09"
             }
           },
           {
@@ -233,6 +239,7 @@
   },
   "active": "b26643384683b5d6",
   "lastOpenFiles": [
+    "Daily/2024-12-09.md",
     "Daily/Rotina de Calistenia.md",
     "Daily/2024-12-08.md",
     "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
@@ -260,7 +267,6 @@
     "Daily/2024-10-25.md",
     "To-Do List com Streaks.md",
     "Agenda.md",
-    "Daily/2024-10-21.md",
     "Lista de Desejos",
     "Templates",
     "Financeiro/2 - Investimentos",
