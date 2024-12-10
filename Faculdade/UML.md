@@ -41,4 +41,27 @@
 	- Idealizado por Ivar Jacobson em 1970 e inserida na UML na década de 90.
 	- Representa as funcionalidades do sistema e dos elementos externos ao sistema que interagem com eles
 	- É a especificação completa de interações entre um sistema e um ou mais agentes externos a este sistema
-	- Representa determinada Funcionalidade de um sistema conforme percebida exrternamente
+	- Representa determinada Funcionalidade de um sistema conforme percebida externamente
+	- É o modelo mais popular para a documentação de requisitos funcionais
+	- O MCU representa os possíveis usos de um sistema
+	- Componentes:
+		- Casos de uso
+		- Atores
+		- Relacionamentos
+	- NÃO revela a estrutura e o comportamento do sistema
+	- Um MCU pode conter vários casos de uso
+	- Cada caso de uso tem seu contexto único, embora possa ter relação com outros
+	- Há 3 dimensões para variações de descrições dos casos de uso
+		- Detalhamento
+			- Grau de detalhamento
+				- Sucinto: Não detalha as interações
+				- Expandido: Descreve as interações em detalhes
+		- Abstração
+			- Grau de abstração
+				- Existência ou não de menção a aspectos relativos a tecnologia durante a descrição de um caso de uso
+		- Formato
+			- Estrutura utilizada para organizar a sua narrativa textual
+				- Contínuo
+				- Numerado
+				- Tabular
+	- 
