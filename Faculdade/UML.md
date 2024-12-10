@@ -112,3 +112,4 @@
 				- Restrições são compostas por um texto entre chaves
 				- São utilizadas para definir validações, consistências, condições e etc
 				- Devem ser aplicadas a um determinado componente
+- Modelos de Classe
