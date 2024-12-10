@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bfa14fcf0dad3fe7",
@@ -141,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rascunho.md"
+                "file": "Faculdade/UML.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Rascunho"
+              "title": "Outline of UML"
             }
           },
           {
@@ -248,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,11 +266,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59ad642f69b0d363",
+  "active": "b75ae868e1d66e9a",
   "lastOpenFiles": [
-    "Faculdade/UML.md",
-    "Rascunho.md",
     "Faculdade/Cálculo/Aula - 2024-10-28.md",
+    "Rascunho.md",
+    "Faculdade/UML.md",
     "Faculdade/Cálculo/Aula - 2024-10-21.md",
     "Rotina de Calistenia.md",
     "To-Do List com Streaks.md",

@@ -12,3 +12,6 @@ Modelagem de classe:
 		- Apresenta como o sistema está internamente estruturado.
 	- Aspecto dinâmico
 		- Apresenta as interações entre os objetos
+	- Desenvolvimento inclui:
+		- Requisitos
+		- Análise
