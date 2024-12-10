@@ -1,0 +1,14 @@
+Modelagem de classe:
+- Classes e objetos:
+	- O ser humano aprende e pensa de uma maneira orientada a objetos.
+	- Representando seu conhecimento por meio de abstrações e classificações.
+	- Externamente ao sistema, os usuários visualizam:
+		- Resultados de cálculos 
+		- Relatórios produzidos 
+		- Confirmações de requisições, etc.
+	- Internamente, o sistema orientado a objetos é:
+		- Composto por um conjunto de objetos que cooperam entre si.
+	- Aspecto estrutural
+		- Apresenta como o sistema está internamente estruturado.
+	- Aspecto dinâmico
+		- Apresenta as interações entre os objetos
