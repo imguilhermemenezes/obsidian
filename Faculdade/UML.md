@@ -88,13 +88,27 @@
 				- A associação de inclusão é utilizada quando existe um cenário ou rotina comum a mais de um caso de uso
 				- É representada por uma linha tracejada contendo uma seta em uma de suas extremidades de ponta para o caso de uso incluído
 				- Somente entre casos de uso
+				- O caso de uso inclusor não esta completo sem o caso de uso incluso
+				- Tradicionalmente quando um caso de uso se repete em mais de um caso de uso
+				- Comportamento comum contido nos cenários do caso de uso inclusor
 			- Extensão
 				- Associações de extensão são utilizadas para descrever cenários opcionais de um caso de uso
 				- Somente entre casos de uso
 				- Modelar situações em que diferentes sequencias de interações podem ser inseridas em um mesmo caso de uso
 				- Essas sequencias representam um comportamento eventual
+				- Estende o comportamento do caso de uso sem modificar o original
+				- Tradicionalmente um segundo UC ocorre sem modificar o principal
 			- Generalização
 				- O relacionamento de generalização/especialização  é uma forma de associação entre casos de uso e atores
 				- Pode existir entre dois casos de usos ou entre dois atores
 				- Permite que um caso de uso (ou um ator) herde o comportamento de outro caso de uso (ou ator)
-				- 
+				- O caso de uso mais genérico pode ser abstrato ou concreto
+				- É necessário que o caso de uso pai sempre seja abstrato para evitar problemas na especificação
+				- O caso de uso pai é utilizado apenas para representar a natureza dos casos de uso filho
+				- Não há especificação de comportamento para o caso de uso abstrato
+				- Identifica-se vários casos de uso com o mesmo comportamento
+				- Um ator desempenha um papel semelhante a outro ator
+			- Restrições em Extensão
+				- Restrições são compostas por um texto entre chaves
+				- São utilizadas para definir validações, consistências, condições e etc
+				- Devem ser aplicadas a um determinado componente
