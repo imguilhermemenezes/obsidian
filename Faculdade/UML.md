@@ -85,5 +85,16 @@
 		- Tipos de relacionamento no MCU:
 			- Comunicação
 			- Inclusão
+				- A associação de inclusão é utilizada quando existe um cenário ou rotina comum a mais de um caso de uso
+				- É representada por uma linha tracejada contendo uma seta em uma de suas extremidades de ponta para o caso de uso incluído
+				- Somente entre casos de uso
 			- Extensão
+				- Associações de extensão são utilizadas para descrever cenários opcionais de um caso de uso
+				- Somente entre casos de uso
+				- Modelar situações em que diferentes sequencias de interações podem ser inseridas em um mesmo caso de uso
+				- Essas sequencias representam um comportamento eventual
 			- Generalização
+				- O relacionamento de generalização/especialização  é uma forma de associação entre casos de uso e atores
+				- Pode existir entre dois casos de usos ou entre dois atores
+				- Permite que um caso de uso (ou um ator) herde o comportamento de outro caso de uso (ou ator)
+				- 
