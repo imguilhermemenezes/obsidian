@@ -28,3 +28,17 @@
 - A UML não é:
 	- Processo de desenvolvimento de software
 	- Linguagem de programação
+- Os autores da UML definem algumas visões:
+	- Visão de Caso de Uso
+		- Visão externa do sistema que define a interação entre o sistema e agentes externos
+		- Representa a funcionalidade do SW
+	- Visão de Projeto
+		- Características estruturais
+		- Características comportamentais do SW
+	- Visão de Implementação
+		- Gerenciamento de versões construídas pelo agrupamento de módulos e subsistemas
+- Modelos de Casos de Uso:
+	- Idealizado por Ivar Jacobson em 1970 e inserida na UML na década de 90.
+	- Representa as funcionalidades do sistema e dos elementos externos ao sistema que interagem com eles
+	- É a especificação completa de interações entre um sistema e um ou mais agentes externos a este sistema
+	- Representa determinada Funcionalidade de um sistema conforme percebida exrternamente
