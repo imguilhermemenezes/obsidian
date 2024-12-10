@@ -1,115 +1,27 @@
-- Modelagem - A modelagem é o processo de criar representações abstratas de um sistema.
-	A partir do modelo visa:
-	- Entender
-	- Especificar
-	- Prever e controlar o comportamento do SW
-- Elementos - Os elementos da UML são as construções básicas usadas para construir modelos.
-	Incluem:
-	- Classes
-	- Objetos
-	- Pacotes
-	- Casos de uso, entre outros 
-- Relacionamentos - Os relacionamentos na UML descrevem como os elementos estão conectados entre si.
-	Os tipos de relacionamento são:
-	- Associação
-	- Generalização e Especialização
-	- Dependência e Agregação
-- Diagramas - Os diagramas na UML são ferramentas visuais usadas para representar diferentes aspectos do sistema.
-	Alguns tipos de diagramas:
-	- Diagrama de Classes
-	- Diagrama de Sequência
-	- Diagrama de Atividade
-	- Diagrama de Caso de Uso
-- UML - É uma notação que auxilia os Analistas a definirem as características do sistema como:
-	- Requisitos
-	- Comportamento
-	- Estrutura Lógica
-	- Dinâmica dos Processos, etc
-- A UML não é:
-	- Processo de desenvolvimento de software
-	- Linguagem de programação
-- Os autores da UML definem algumas visões:
-	- Visão de Caso de Uso
-		- Visão externa do sistema que define a interação entre o sistema e agentes externos
-		- Representa a funcionalidade do SW
-	- Visão de Projeto
-		- Características estruturais
-		- Características comportamentais do SW
-	- Visão de Implementação
-		- Gerenciamento de versões construídas pelo agrupamento de módulos e subsistemas
-- Modelos de Casos de Uso:
-	- Idealizado por Ivar Jacobson em 1970 e inserida na UML na década de 90.
-	- Representa as funcionalidades do sistema e dos elementos externos ao sistema que interagem com eles
-	- É a especificação completa de interações entre um sistema e um ou mais agentes externos a este sistema
-	- Representa determinada Funcionalidade de um sistema conforme percebida externamente
-	- É o modelo mais popular para a documentação de requisitos funcionais
-	- O MCU representa os possíveis usos de um sistema
-	- Componentes:
-		- Casos de uso
-		- Atores
-		- Relacionamentos
-	- NÃO revela a estrutura e o comportamento do sistema
-	- Um MCU pode conter vários casos de uso
-	- Cada caso de uso tem seu contexto único, embora possa ter relação com outros
-	- Há 3 dimensões para variações de descrições dos casos de uso
-		- Detalhamento
-			- Grau de detalhamento
-				- Sucinto: Não detalha as interações
-				- Expandido: Descreve as interações em detalhes
-		- Abstração
-			- Grau de abstração
-				- Existência ou não de menção a aspectos relativos a tecnologia durante a descrição de um caso de uso
-		- Formato
-			- Estrutura utilizada para organizar a sua narrativa textual
-				- Contínuo
-				- Numerado
-				- Tabular
-	- Atores:
-		- É qualquer elemento externo ao sistema que interage com o mesmo
-		- O ator representa um papel em relação ao sistema
-		- Categorias:
-			- Cargos
-			- Organizações
-			- Divisões de uma organização
-			- Outro sistema de software
-			- Equipamentos que um sistema se comunica
-	- Casos de Uso:
-		- São representados por uma elipse contendo a descrição da funcionalidade a que se refere
-		- NÃO HÁ UMA REGRA para o tamanho do texto, mas em geral a descrição costuma ser bastante sucinta
-	- Relacionamentos:
-		- Ator → Caso de Uso
-			- Representação básica
-			- Componente que representa a interação entre os atores e casos de usos
-		- Caso de uso → Caso de Uso
-			- Também representa interligações entre casos de uso ou entre atores
-		- Tipos de relacionamento no MCU:
-			- Comunicação
-			- Inclusão
-				- A associação de inclusão é utilizada quando existe um cenário ou rotina comum a mais de um caso de uso
-				- É representada por uma linha tracejada contendo uma seta em uma de suas extremidades de ponta para o caso de uso incluído
-				- Somente entre casos de uso
-				- O caso de uso inclusor não esta completo sem o caso de uso incluso
-				- Tradicionalmente quando um caso de uso se repete em mais de um caso de uso
-				- Comportamento comum contido nos cenários do caso de uso inclusor
-			- Extensão
-				- Associações de extensão são utilizadas para descrever cenários opcionais de um caso de uso
-				- Somente entre casos de uso
-				- Modelar situações em que diferentes sequencias de interações podem ser inseridas em um mesmo caso de uso
-				- Essas sequencias representam um comportamento eventual
-				- Estende o comportamento do caso de uso sem modificar o original
-				- Tradicionalmente um segundo UC ocorre sem modificar o principal
-			- Generalização
-				- O relacionamento de generalização/especialização  é uma forma de associação entre casos de uso e atores
-				- Pode existir entre dois casos de usos ou entre dois atores
-				- Permite que um caso de uso (ou um ator) herde o comportamento de outro caso de uso (ou ator)
-				- O caso de uso mais genérico pode ser abstrato ou concreto
-				- É necessário que o caso de uso pai sempre seja abstrato para evitar problemas na especificação
-				- O caso de uso pai é utilizado apenas para representar a natureza dos casos de uso filho
-				- Não há especificação de comportamento para o caso de uso abstrato
-				- Identifica-se vários casos de uso com o mesmo comportamento
-				- Um ator desempenha um papel semelhante a outro ator
-			- Restrições em Extensão
-				- Restrições são compostas por um texto entre chaves
-				- São utilizadas para definir validações, consistências, condições e etc
-				- Devem ser aplicadas a um determinado componente
-- Modelos de Classe
+
+**Modelagem**: A modelagem é usada para criar representações abstratas de sistemas, auxiliando no entendimento, especificação, previsão e controle do comportamento do software.
+
+**Elementos da UML**: Incluem classes, objetos, pacotes, e casos de uso, entre outros, como componentes básicos para construir modelos.
+
+**Relacionamentos**: Descrevem conexões entre elementos da UML, como associação, generalização/especialização, dependência e agregação.
+
+**Diagramas UML**: Ferramentas visuais para representar aspectos do sistema, como diagramas de classe, sequência, atividade e caso de uso.
+
+**UML**: Notação que ajuda a definir requisitos, comportamento, estrutura lógica e dinâmica de processos. Não é uma linguagem de programação nem um processo de desenvolvimento.
+
+**Visões na UML**:
+
+- **Caso de Uso**: Interação entre sistema e agentes externos.
+- **Projeto**: Estrutura e comportamento do software.
+- **Implementação**: Gerenciamento de versões e subsistemas.
+
+**Modelos de Casos de Uso (MCU)**:
+
+- Criados por Ivar Jacobson, representam funcionalidades e interações do sistema com elementos externos.
+- Componentes incluem casos de uso, atores e relacionamentos.
+- Tipos de relacionamento: comunicação, inclusão, extensão e generalização.
+
+**Casos de Uso e Atores**:
+
+- Casos de uso são elipses descrevendo funcionalidades. Atores representam elementos externos que interagem com o sistema.
+- Relacionamentos incluem comunicação, inclusão (cenários comuns), extensão (cenários opcionais) e generalização (herança de comportamento).
