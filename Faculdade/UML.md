@@ -64,4 +64,26 @@
 				- Contínuo
 				- Numerado
 				- Tabular
-	- 
+	- Atores:
+		- É qualquer elemento externo ao sistema que interage com o mesmo
+		- O ator representa um papel em relação ao sistema
+		- Categorias:
+			- Cargos
+			- Organizações
+			- Divisões de uma organização
+			- Outro sistema de software
+			- Equipamentos que um sistema se comunica
+	- Casos de Uso:
+		- São representados por uma elipse contendo a descrição da funcionalidade a que se refere
+		- NÃO HÁ UMA REGRA para o tamanho do texto, mas em geral a descrição costuma ser bastante sucinta
+	- Relacionamentos:
+		- Ator → Caso de Uso
+			- Representação básica
+			- Componente que representa a interação entre os atores e casos de usos
+		- Caso de uso → Caso de Uso
+			- Também representa interligações entre casos de uso ou entre atores
+		- Tipos de relacionamento no MCU:
+			- Comunicação
+			- Inclusão
+			- Extensão
+			- Generalização
