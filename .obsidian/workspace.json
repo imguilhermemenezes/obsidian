@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/UML.md",
+                "file": "Rotina de Calistenia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UML"
+              "title": "Rotina de Calistenia"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade/UML.md"
+                "file": "Rotina de Calistenia.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of UML"
+              "title": "Outline of Rotina de Calistenia"
             }
           },
           {
@@ -268,9 +268,9 @@
   },
   "active": "b75ae868e1d66e9a",
   "lastOpenFiles": [
+    "Faculdade/UML.md",
     "Faculdade/Cálculo/Aula - 2024-10-28.md",
     "Rascunho.md",
-    "Faculdade/UML.md",
     "Faculdade/Cálculo/Aula - 2024-10-21.md",
     "Rotina de Calistenia.md",
     "To-Do List com Streaks.md",
