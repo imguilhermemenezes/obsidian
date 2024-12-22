@@ -9,9 +9,15 @@
 	- [x] Os últimos jovens da terra - Max Brallier
 	- [ ] Peter Pan - J. M. Barrie
 	- [x] Solo Leveling - Chugong
+	- [ ] Linux para servidores - Lucianno Andress Martini, Gustavo Turin Maieves
+	- [ ] Programando em PHP - Fábio Burch Salvador
+	- [ ] Programador Web - Ivan Max Freire, Ana Liz Souto
+	- [ ] Começando a programar em C++ para leigos - Stephen R. Davis
+	- [ ] Use a cabeça! Programação - Paul Barry & David Griffiths
+	- [ ] Programação com Arduíno - Simon Monk
 
 - ## Quero
-	- [ ] Hábitos Atômicos - James Clear [https://amzn.to/3ZKYI1o]
+	- [ ] Hábitos Atômicos - James Clear 
 	- [ ] O livro do cinema - GloboLivros
 	- [ ] Roube como um artista - Austin Kleon
 	- [ ] A fotografia em um mundo onde todos fotografam - Daniela Agostini
