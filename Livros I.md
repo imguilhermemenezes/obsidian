@@ -1,0 +1,27 @@
+- ## Tenho
+
+	- [ ] O pequeno príncipe - Antoine de Saint-Exupéry
+	- [ ] Édipo rei - Didier Lamaison
+	- [ ] Memórias de um corsário - Edward John Trelawnay
+	- [x] A lanterna de Nix - Kan Jakahama
+	- [ ] Napping princess - Kenji Kamiyama
+	- [ ] O quinze - Raquel de Queiroz
+	- [x] Os últimos jovens da terra - Max Brallier
+	- [ ] Peter Pan - J. M. Barrie
+	- [x] Solo Leveling - Chugong
+
+- ## Quero
+	- [ ] Hábitos Atômicos - James Clear [https://amzn.to/3ZKYI1o]
+	- [ ] O livro do cinema - GloboLivros
+	- [ ] Roube como um artista - Austin Kleon
+	- [ ] A fotografia em um mundo onde todos fotografam - Daniela Agostini
+	- [ ] C++ Moderno e eficaz
+	- [ ] DevOps para leigos - Emily Freeman
+	- [ ] Python e Mercado Financeiro - Marco Antonio Leonel Caetano
+	- [ ] Manual de Animação - Richard Williams
+	- [ ] O livro da filosofia - GloboLivros
+	- [ ] Vampiros - Osamu Tezuka
+	- [ ] Roube como um artista o diário - Austin Kleon
+	- [ ] O pequeno livro das cores - Karen Haller
+	- [ ] Guerra Cultural - Stephen R. C. Hicks
+	- [ ] O livro da economia - GloboLivro

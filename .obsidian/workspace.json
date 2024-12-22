@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Livros.md",
+                "file": "Livros I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Livros"
+              "title": "Livros I"
             }
           }
         ]
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Livros.md"
+                "file": "Livros I.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Livros"
+              "title": "Outline of Livros I"
             }
           },
           {
@@ -243,7 +243,7 @@
     "Daily/2024-10-23.md",
     "Faculdade/Cálculo/Aula - 2024-10-28.md",
     "To-Do List com Streaks.md",
-    "Livros.md",
+    "Livros I.md",
     "Daily/2024-12-08.md",
     "Rotina de Calistenia.md",
     "Faculdade/UML.md",
