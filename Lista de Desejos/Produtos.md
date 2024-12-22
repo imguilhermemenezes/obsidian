@@ -1,2 +1,4 @@
 - ## Som
-	- [ ] [QCY T13](https://amzn.to/3CidSBo)
+	- [ ] Fone [QCY T13](https://amzn.to/3CidSBo)
+	- [ ] Microfone [Fifine AM8](https://amzn.to/3CidSBo)
+	- [ ] 
