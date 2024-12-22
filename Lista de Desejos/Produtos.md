@@ -1,0 +1,2 @@
+- ## Som
+	- [ ] [QCY T13](https://amzn.to/3CidSBo)
