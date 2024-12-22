@@ -1,4 +1,5 @@
 - ## Som
 	- [ ] Fone [QCY T13](https://amzn.to/3CidSBo)
 	- [ ] Microfone [Fifine AM8](https://amzn.to/3CidSBo)
+	- [ ] headphone [LOGITECH G435 WIRELESS](https://amzn.to/3Zz8QIJ)
 	- [ ] 
