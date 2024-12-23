@@ -5,4 +5,5 @@
 
 - ## Vídeo
 	- [ ] Câmera [Filmadora Sony Handycam com Zoom Ótico de 60x](https://df.olx.com.br/distrito-federal-e-regiao/cameras-e-filmadoras/filmadora-sony-handycam-com-zoom-otico-de-60x-1362556566?utm_medium=shared_link&utm_source=direct)
+	- [ ] Câmera [Filmadora Sony CCD-TRV108](https://shopee.com.br/Câmera-Filmadora-Sony-CCD-TRV108-***Leia-a-descrição***-i.235260811.23092253269)
 	- [ ] 
