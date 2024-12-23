@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiPencilRuler",
+      "LiExcalidrawIcon",
+      "🍲",
+      "LiNotebookPen",
+      "LiAlignStartVertical"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "Daily": "LiCalendarDays",
+  "Desenho": "LiPencil",
+  "Programação": "LiCode2",
+  "Templates": "LiBookTemplate",
+  "Agenda.md": "LiNotebook",
+  "Financeiro": "LiTrendingUp",
+  "Imgs": "LiImage",
+  "Faculdade": "LiUniversity",
+  "Lista de Desejos": "LiAlignStartVertical",
+  "Rascunhos": "LiNotebookPen",
+  "Receitas": "🍲",
+  "Excalidraw": "LiPencilRuler"
+}

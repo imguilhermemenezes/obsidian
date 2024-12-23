@@ -1,0 +1,10 @@
+{
+  "autocorrect-formatter:format-content": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ]
+}
