@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e27c7483db5971a4",
+        "id": "66a6d7c6edb4b3d6",
         "type": "tabs",
         "children": [
           {
-            "id": "59ad642f69b0d363",
+            "id": "6b128f0ed5c358a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lista de Desejos/Lista de Compras.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lista de Compras"
-            }
-          },
-          {
-            "id": "bbcf99659e36ea92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lista de Desejos/Produtos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Produtos"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,10 +107,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lista de Desejos/Produtos.md"
+                "file": "Daily/Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Produtos"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -252,8 +233,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bbcf99659e36ea92",
+  "active": "7a960fa84820cc80",
   "lastOpenFiles": [
+    "Daily/Untitled.md",
+    "Daily/Academia.md",
+    "Daily/2024-12-08.md",
+    "Daily/2024-12-09.md",
     "Lista de Desejos/Lista de Compras.md",
     "Lista de Desejos/Produtos.md",
     "Agenda.md",
@@ -262,13 +247,11 @@
     "Daily/2024-10-23.md",
     "Faculdade/Cálculo/Aula - 2024-10-28.md",
     "To-Do List com Streaks.md",
-    "Daily/2024-12-08.md",
     "Rotina de Calistenia.md",
     "Faculdade/UML.md",
     "Faculdade/Cálculo/Aula - 2024-10-21.md",
     "Aprender a aprender - 5 passos.md",
     "Faculdade/Cálculo/Aula - 2024-11-04.md",
-    "Daily/2024-12-09.md",
     "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
     "Faculdade/Arquitetura e Organização de Computadores/Exercícios - Arquitetura RISC x CISC.md",
     "Daily/2024-11-08.md",
@@ -279,8 +262,6 @@
     "Daily/2024-11-02.md",
     "Excalidraw/Drawing 2024-11-02 11.01.15.excalidraw.md",
     "Excalidraw",
-    "Daily/Academia.md",
-    "Daily/2024-11-01.md",
     "Receitas",
     "Lista de Desejos",
     "Templates",
