@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "38234babc69d3b43",
+    "type": "split",
+    "children": [
+      {
+        "id": "43ecdabb6e6bcd52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb96494b0037895d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "073f25bd1437b8d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "46c2e2bbc275a2fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a960fa84820cc80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3529afd4470e5f2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Atividades",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "70dedda94efa0b68",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfa14fcf0dad3fe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7ef9698534eb488",
+        "type": "tabs",
+        "dimension": 28.683181225554105,
+        "children": [
+          {
+            "id": "3e09c6e02315a8e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "63f158ecb785a84f",
+        "type": "tabs",
+        "dimension": 31.029986962190357,
+        "children": [
+          {
+            "id": "cfde3692ccca2daf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c0277cb6ffe0e52c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "194100132ccb019d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024-10-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 2024-10-21"
+            }
+          },
+          {
+            "id": "4090e60ce9ba673b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2024-10-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 2024-10-21"
+            }
+          },
+          {
+            "id": "18eb8dc0eccb9603",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7757d29abd1703ea",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8462511705576d5a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1e16a72c14291964",
+        "type": "tabs",
+        "dimension": 40.28683181225554,
+        "children": [
+          {
+            "id": "04f2103f080dd055",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-audio-notes:Quick Audio Note with Transcription": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7a960fa84820cc80",
+  "lastOpenFiles": [
+    "Cursinho-Concurso/Legislação",
+    "Untitled",
+    "Cursinho-Concurso",
+    "Daily/Untitled.md",
+    "Programação/Web Moderno/Modulo 1/Untitled.md",
+    "Programação/Web Moderno/Modulo 1",
+    "Programação/Web Moderno",
+    "Daily/Academia.md",
+    "Daily/2024-12-08.md",
+    "Daily/2024-12-09.md",
+    "Lista de Desejos/Lista de Compras.md",
+    "Lista de Desejos/Produtos.md",
+    "Agenda.md",
+    "Livros I.md",
+    "Rascunho.md",
+    "Daily/2024-10-23.md",
+    "Faculdade/Cálculo/Aula - 2024-10-28.md",
+    "To-Do List com Streaks.md",
+    "Rotina de Calistenia.md",
+    "Faculdade/UML.md",
+    "Faculdade/Cálculo/Aula - 2024-10-21.md",
+    "Aprender a aprender - 5 passos.md",
+    "Faculdade/Cálculo/Aula - 2024-11-04.md",
+    "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
+    "Faculdade/Arquitetura e Organização de Computadores/Exercícios - Arquitetura RISC x CISC.md",
+    "Daily/2024-11-08.md",
+    "Faculdade/Arquitetura e Organização de Computadores/Arquitetura RISC x CISC.md",
+    "Daily/2024-11-05.md",
+    "Excalidraw/Drawing 2024-11-04 19.56.01.excalidraw.md",
+    "Daily/2024-11-04.md",
+    "Excalidraw",
+    "Receitas",
+    "Lista de Desejos",
+    "Templates",
+    "Financeiro/2 - Investimentos",
+    "Financeiro/1 - Fundamentos",
+    "Imgs/Pasted image 20241021120735.png",
+    "Programação/Cube Academy/Sem título.canvas",
+    "Pasted image 20241020220856.png",
+    "Sem título.canvas",
+    "Imgs/Pasted image 20241018203742.png",
+    "Imgs/Pasted image 20241018203240.png",
+    "Imgs/Pasted image 20241018201243.png",
+    "Imgs/Pasted image 20241018200912.png",
+    "Imgs/Pasted image 20241018200848.png",
+    "Imgs/Pasted image 20241018200710.png",
+    "Imgs/Pasted image 20241018200416.png",
+    "Imgs/Pasted image 20241018200449.png"
+  ]
+}
