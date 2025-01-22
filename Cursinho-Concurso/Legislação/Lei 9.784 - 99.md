@@ -21,4 +21,8 @@ Sempre seguindo os princípios legais e garantindo transparência e direito de d
 ### E onde ela se aplica?
 
 Ela se aplica tanto no âmbito da Administração Federal Direta, quanto da Indireta.
-A Administração Pública Direta é composta por órgãos que integram a estrutura administrativa do Estado.
+A Administração Pública Direta é composta por órgãos que integram a estrutura administrativa do Estado, sem personalidade jurídica própria, e que atuam diretamente na prestação de serviços públicos ou na execução de funções administrativas.
+
+Detalhes Importantes da Administração Direta:
+- Sem personalidade jurídica
+- Prestação de serviço público e execução de funções administrativas
