@@ -21,11 +21,27 @@ Sempre seguindo os princípios legais e garantindo transparência e direito de d
 ### E onde ela se aplica?
 
 Ela se aplica tanto no âmbito da Administração Federal Direta, quanto da Indireta.
+
 A Administração Pública Direta é composta por órgãos que integram a estrutura administrativa do Estado, sem personalidade jurídica própria, e que atuam diretamente na prestação de serviços públicos ou na execução de funções administrativas.
 
 Detalhes Importantes da Administração Direta:
 - Sem personalidade jurídica
 - Prestação de serviço público e execução de funções administrativas
+
+Exemplos:
+- União
+	- Ministérios (Ministério da Educação, Ministério da Saúde)
+	- Polícia Federal
+	- Advocacia Geral da União (AGU)
+- Estado
+	- Secretaria de Educação, Saúde, Segurança Pública
+	- Polícia Militar e Polícia Civil
+	- Departamentos Estaduais de Trânsito (DETRAN)
+- Municípios
+	- Prefeituras
+	- Secretarias Municipais (Educação, Saúde)
+- Distrito Federal
+	- Secretarias do DF (por exemplo: Secretaria de Transporte e Mobilidade)
 
 A Administração Pública Indireta é formada por entidades com personalidade jurídica própria, criadas por lei ou com autorização do Estado, para desempenhar atividades administrativas especificas de interesse público, com maior autonomia administrativa e financeira.
 
@@ -33,3 +49,6 @@ Pontos Importantes para Destacar:
 - Personalidade jurídica própria
 - Criadas ou autorizadas por lei
 - Finalidade específica
+
+Exemplos:
+- Autarquias (criadas por lei para executar atividades típicas do )
