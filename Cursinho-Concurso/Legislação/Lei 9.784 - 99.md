@@ -11,5 +11,14 @@ Lei recepcionado no DF pela Lei Distrital 2.834/2001, ou seja, a lei 2.834 adota
 
 ### O que seria o Processo Administrativo?
 
-O Processo Administrativo é o conjunto de atos encadeados tomados pela Administração publica visando 
- 
+O Processo Administrativo é o conjunto de atos encadeados/coordenados realizados pela Administração Pública visando a tomada de decisão em assuntos de interesses público ou privado. Ele envolve etapas como:
+- Instrução;
+- Consulta;
+- Decisão;
+- Notificação.
+Sempre seguindo os princípios legais e garantindo transparência e direito de defesa.
+
+### E onde ela se aplica?
+
+Ela se aplica tanto no âmbito da Administração Federal Direta, quanto da Indireta.
+A Administração Pública Direta é composta por órgãos que integram a estrutura administrativa do Estado.
