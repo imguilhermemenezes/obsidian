@@ -30,18 +30,18 @@ Detalhes Importantes da Administração Direta:
 
 Exemplos:
 - União
-	- Ministérios (Ministério da Educação, Ministério da Saúde)
-	- Polícia Federal
-	- Advocacia Geral da União (AGU)
+	- Ministérios (Ministério da Educação, Ministério da Saúde).
+	- Polícia Federal.
+	- Advocacia Geral da União (AGU).
 - Estado
-	- Secretaria de Educação, Saúde, Segurança Pública
-	- Polícia Militar e Polícia Civil
-	- Departamentos Estaduais de Trânsito (DETRAN)
+	- Secretaria de Educação, Saúde, Segurança Pública.
+	- Polícia Militar e Polícia Civil.
+	- Departamentos Estaduais de Trânsito (DETRAN).
 - Municípios
-	- Prefeituras
-	- Secretarias Municipais (Educação, Saúde)
+	- Prefeituras.
+	- Secretarias Municipais (Educação, Saúde).
 - Distrito Federal
-	- Secretarias do DF (por exemplo: Secretaria de Transporte e Mobilidade)
+	- Secretarias do DF (por exemplo: Secretaria de Transporte e Mobilidade).
 
 A Administração Pública Indireta é formada por entidades com personalidade jurídica própria, criadas por lei ou com autorização do Estado, para desempenhar atividades administrativas especificas de interesse público, com maior autonomia administrativa e financeira.
 
@@ -51,4 +51,18 @@ Pontos Importantes para Destacar:
 - Finalidade específica
 
 Exemplos:
-- Autarquias (criadas por lei para executar atividades típicas do )
+- Autarquias (criadas por lei para executar atividades típicas do Estado)
+	- INSS (Instituto Nacional do Seguro Social).
+	- IBAMA (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis).
+	- ANVISA (Agência Nacional de Vigilância Sanitária).
+- Fundações Publicas (entidades sem fins lucrativos, geralmente ligadas à educação, cultura e pesquisa)
+	- FUNAI (Fundação Nacional do Índio).
+	- FIOCRUZ (Fundação Oswaldo Cruz).
+- Empresas Públicas (capital 100% público, exploram atividades econômicas)
+	- Correios (Empresa Brasileira de Correios e Telégrafos).
+	- Caixa Econômica Federal.
+- Sociedades de Economia Mista (Capital público e privado, exploram atividades econômicas)
+	- Banco do Brasil.
+	- Petrobras.
+
+Ela se aplica principalmente no Poder Executivo, 
