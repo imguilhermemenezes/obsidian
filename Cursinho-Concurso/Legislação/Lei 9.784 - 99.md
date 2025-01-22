@@ -65,4 +65,7 @@ Exemplos:
 	- Banco do Brasil.
 	- Petrobras.
 
-Ela se aplica principalmente no Poder Executivo, 
+A lei se aplica principalmente ao Poder Executivo, que é o responsável pela Administração Pública em sentido estrito. No entanto, também pode ser aplicada aos Poderes Legislativo e Judiciário, mas apenas quando estes estiverem desempenhando funções administrativas, e não suas funções típicas de legislar e julgar.
+
+![[Pasted image 20250122152755.png]]
+
