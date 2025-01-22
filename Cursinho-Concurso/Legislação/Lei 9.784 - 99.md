@@ -26,3 +26,10 @@ A Administração Pública Direta é composta por órgãos que integram a estrut
 Detalhes Importantes da Administração Direta:
 - Sem personalidade jurídica
 - Prestação de serviço público e execução de funções administrativas
+
+A Administração Pública Indireta é formada por entidades com personalidade jurídica própria, criadas por lei ou com autorização do Estado, para desempenhar atividades administrativas especificas de interesse público, com maior autonomia administrativa e financeira.
+
+Pontos Importantes para Destacar:
+- Personalidade jurídica própria
+- Criadas ou autorizadas por lei
+- Finalidade específica
