@@ -69,3 +69,5 @@ A lei se aplica principalmente ao Poder Executivo, que é o responsável pela Ad
 
 ![[Pasted image 20250122152755.png]]
 
+Segundo a Lei 9.784/99
+- Órgão: é a unidade de atuação na administração publica direta e indireta
