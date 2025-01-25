@@ -189,7 +189,31 @@ A Lei 9.784/99 que regula os processos administrativos no âmbito da Administra�
 	- **Necessidade:** A solução deve ser a menos gravosa possível.
 	- **Proporcionalidade em sentido estrito:** Os benefícios devem superar os prejuízos causados.
 - ##### Exemplo Prático
-	Multar um estabelecimento por um erro menor com um valor que comprometa toda a sua 
+	Multar um estabelecimento por um erro menor com um valor que comprometa toda a sua atividade seria desproporcional.
+
+#### Moralidade
+- ##### O que é
+	Este princípio exige que os atos administrativos sejam éticos, transparentes e de acordo com os padrões morais aceitos pela sociedade.
+- ##### Características
+	- **Atos justos e honestos:** O administrador deve atuar com integridade.
+	- **Controle social:** Permite que a sociedade exija comportamentos éticos da administração.
+- ##### Exemplo Prático
+	Um gestor público que favorece empresas de familiares viola o princípio da moralidade.
+
+#### Motivação
+- ##### O que é
+	Todo ato administrativo deve ser fundamentado, apresentando as razões de fato e de direito que levam à sua prática.
+- ##### Elementos Principais
+	- **Clareza e transparência:** Justificar o porquê da decisão.
+	- **Controle de legalidade:** Permite que o ato seja avaliado quanto à sua legalidade.
+- ##### Exemplo Prático
+	Ao negar um pedido de licença ambiental, o órgão deve explicar os motivos, como a falta de documentos ou a inviabilidade técnica.
+
+### O que diz a Lei
+
+Art. 2º A Administração Pública obedecerá, dentre outros, aos princípios da legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência.
+
+### Princípios Implícitos
 
 
 
