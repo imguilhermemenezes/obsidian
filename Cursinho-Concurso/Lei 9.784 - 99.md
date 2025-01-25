@@ -71,5 +71,17 @@ A lei se aplica principalmente ao Poder Executivo, que é o responsável pela Ad
 
 Segundo a Lei 9.784/99
 1. Órgão:
-	1. Conforme o artigo 1º da Lei nº 9.784/99, órgão é a unidade integrante da Administração Pública, podendo estar presente tanto na **administração direta** quanto na **administração indireta**.
-	2. Exemplo: Ministérios (Administração Direta) ou 
+	- Conforme o artigo 1º da Lei nº 9.784/99, órgão é a unidade integrante da Administração Pública, podendo estar presente tanto na **administração direta** quanto na **administração indireta**.
+	- Exemplo: Ministérios (Administração Direta) ou departamentos dentro de uma autarquia (Administração Indireta).
+2. Entidade:
+	- É definida como uma unidade administrativa que possui **personalidade jurídica própria**, ou seja, pode contrair direitos e obrigações em nome próprio.
+	- Exemplo: Autarquias, empresas públicas e sociedades de economia mista.
+3. Autoridade:
+	- É  o servidor ou agente público com poder de decisão, conforme o artigo 1º, inciso III da lei.
+	- Exemplo: Um secretário municipal ou um diretor de um órgão publico.
+
+### O que diz a Lei
+
+Art. 1º Esta lei estabelece normas básicas sobre o processo administrativo no âmbito da Administração Federal direta e indireta, visando, em especial, à proteção dos direitos dos administrados e ao melhor cumprimento dos fins da Administração
+
+§ 1º 
