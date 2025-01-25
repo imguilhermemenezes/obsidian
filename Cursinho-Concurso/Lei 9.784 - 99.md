@@ -138,8 +138,19 @@ A Lei 9.784/99 que regula os processos administrativos no âmbito da Administra�
 
 #### Finalidade
 - ##### O que é
-	
+	O princípio da finalidade determina que todo ato administrativo deve buscar o interesse público, que é seu objetivo principal. Qualquer desvio de finalidade, como atender interesses pessoais ou políticos, é considerado ilegal.
 - ##### Características
+	- **Atender ao bem comum:** Todas as decisões devem beneficiar a coletividade.
+	- **Proibição do desvio de finalidade:** Não se pode usar o ato administrativo para o desvio de finalidades diferentes das previstas em lei.
+- ##### Exemplo Prático
+	A construção de uma escola pública em uma área carente é um ato que atende à finalidade do Estado de promover a educação e reduzir as desigualdades sociais.
+
+#### Ampla Defesa
+- ##### O que é
+	Ampla Defesa é o direto do administrado de utilizar todos os meios e recursos legais para se defender de qualquer decisão administrativa que o prejudique. Ele inclui o direito de acessar as informações, apresentar provas e argumentos, e contestar atos ou decisões.
+- ##### Elementos Principais
+	- **Acesso à informação:** O administrado deve conhecer todas as acusações ou provas contra ele.
+	- **Uso de meios legais:** Pode apresentar documentos, testemun
 - ##### Exemplo Prático
 
 
