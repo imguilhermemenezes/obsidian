@@ -168,8 +168,28 @@ A Lei 9.784/99 que regula os processos administrativos no âmbito da Administra�
 	Este princípio orienta que a administração deve sempre priorizar o bem coletivo, acima de interesses individuais ou corporativos. 
 - ##### Características
 	- **Coletividade acima de tudo:** Decisões que favorecem apenas grupos específicos ou interesses privados não são aceitáveis.
-	- **Gest**
+	- **Gestão ética e responsável:** Os recursos e ações devem sempre beneficiar a sociedade como um todo.
 - ##### Exemplo Prático
+	O uso de verbas públicas para construir um hospital atende ao interesse público, enquanto seu desvio para fins pessoais não.
+
+#### Legalidade
+- ##### O que é
+	O princípio da legalidade significa que a Administração Pública só pode agir conforme o que a lei permite. Enquanto o cidadão só pode fazer tudo o que a lei não proíbe, a Administração só pode fazer tudo o que a lei autoriza.
+- ##### Características
+	- **Ato vinculado:** Deve seguir rigorosamente a legislação aplicável.
+	- **Impedir arbitrariedades:** Não pode agir de forma discricionária sem base legal.
+- ##### Exemplo Prático
+	Um fiscal de trânsito só pode aplicar multas previstas no Código de Trânsito Brasileiro.
+
+#### Proporcionalidade
+- ##### O que é
+	Garante que os meios adotados pela Administração sejam adequados, necessários e equilibrados em relação ao objetivo buscado.
+- ##### Elementos Principais
+	- **Adequação:** A medida deve ser capaz de atingir o objetivo pretendido.
+	- **Necessidade:** A solução deve ser a menos gravosa possível.
+	- **Proporcionalidade em sentido estrito:** Os benefícios devem superar os prejuízos causados.
+- ##### Exemplo Prático
+	Multar um estabelecimento por um erro menor com um valor que comprometa toda a sua 
 
 
 
