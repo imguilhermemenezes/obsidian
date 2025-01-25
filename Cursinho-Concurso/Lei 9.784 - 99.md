@@ -70,4 +70,6 @@ A lei se aplica principalmente ao Poder Executivo, que é o responsável pela Ad
 ![[Pasted image 20250122152755.png]]
 
 Segundo a Lei 9.784/99
-- Órgão: é a unidade de atuação na administração publica direta e indireta
+1. Órgão:
+	1. Conforme o artigo 1º da Lei nº 9.784/99, órgão é a unidade integrante da Administração Pública, podendo estar presente tanto na **administração direta** quanto na **administração indireta**.
+	2. Exemplo: Ministérios (Administração Direta) ou 
