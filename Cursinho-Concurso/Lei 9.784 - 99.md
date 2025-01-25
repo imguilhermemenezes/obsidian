@@ -108,4 +108,7 @@ A Lei 9.784/99 que regula os processos administrativos no âmbito da Administra�
 - Motivação
 
 #### Segurança Jurídica
-##### O que é
+- ##### O que é
+	Segurança Jurídica é o princípio que assegura previsibilidade, estabilidade e proteção das relações jurídicas contra alterações inesperadas e arbitrárias. Ele exige que a Administração respeite os direitos adquiridos e atos consolidados, garantindo que os administrados possam confiar nas ações do Estado sem temer mudanças bruscas
+- ##### Elementos Principais
+	- **Proteção à confiança legítima**: As pessoas acreditam que o Estado agirá de forma estável
