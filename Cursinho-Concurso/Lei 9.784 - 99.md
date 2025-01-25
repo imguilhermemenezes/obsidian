@@ -91,3 +91,6 @@ Art. 1º Esta lei estabelece normas básicas sobre o processo administrativo no 
 	II - entidade - a unidade de atuação dotada de personalidade jurídica.
 	III - autoridade - o servidor ou agente público dotado de poder de decisão.
 
+### Princípios Expressos
+
+A Lei 9.784/99 que regula os processos administrativos no âmbito da Administração Pública Federal, estabelece princípios expressos em seu artigo 2º, que orientam e norteiam a atuação administrativa.
