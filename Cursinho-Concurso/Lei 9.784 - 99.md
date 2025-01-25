@@ -111,4 +111,14 @@ A Lei 9.784/99 que regula os processos administrativos no âmbito da Administra�
 - ##### O que é
 	Segurança Jurídica é o princípio que assegura previsibilidade, estabilidade e proteção das relações jurídicas contra alterações inesperadas e arbitrárias. Ele exige que a Administração respeite os direitos adquiridos e atos consolidados, garantindo que os administrados possam confiar nas ações do Estado sem temer mudanças bruscas
 - ##### Elementos Principais
-	- **Proteção à confiança legítima**: As pessoas acreditam que o Estado agirá de forma estável
+	- **Proteção à confiança legítima:** As pessoas acreditam que o Estado agirá de forma estável e previsível.
+	- **Vedação à retroatividade prejudicial:** Atos administrativos não podem ser alterados retroativamente de forma a prejudicar os administrados, exceto em casos excepcionais previstos em lei.
+	- **Publicidade e clareza:** As regras e decisões devem ser claras e acessíveis, para que todos possam compreendê-las.
+- ##### Exemplo Prático
+	Um cidadão que recebe aposentadoria por invalidez não pode ter seu benefício cassado de forma abrupta e sem justificativa, especialmente se depender desse benefício para sua subsistência.
+
+####  Eficiência
+- ##### O que é
+	O princípio da eficiência exige que a Administração Pública seja ágil, econômica e produtiva, buscando alcançar os melhores resultados com uso racional dos recursos públicos. Não se trata apenas de fazer, mas de fazer bem,
+- ##### Elementos Principais
+- ##### Exemplo Prático
