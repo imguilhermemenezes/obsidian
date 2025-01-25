@@ -95,36 +95,17 @@ Art. 1º Esta lei estabelece normas básicas sobre o processo administrativo no 
 
 A Lei 9.784/99 que regula os processos administrativos no âmbito da Administração Pública Federal, estabelece princípios expressos em seu artigo 2º, que orientam e norteiam a atuação administrativa. Sendo eles:
 
-1. **Segurança Jurídica**
-	- **Significado:** As decisões administrativas devem respeitar a estabilidade das relações jurídicas, não prejudicando os direitos adquiridos ou criando incertezas jurídicas.
-	- **Exemplo:** Um benefício concedido regularmente não pode ser anulado arbitrariamente.
-2. **Eficiência**
-	- **Significado:** A Administração Pública deve buscar os melhores resultados com o menor desperdício de recursos, garantindo qualidade e agilidade nos serviços prestados.
-	- **Exemplo:** 
-3. **Razoabilidade**
-	- **Significado:** 
-	- **Exemplo:**
-4. **Finalidade**
-	- **Significado:** 
-	- **Exemplo:**
-5.  **Ampla Defesa**
-	- **Significado:** 
-	- **Exemplo:**
-6. **Contraditório**
-	- **Significado:** 
-	- **Exemplo:**
-7. **Interesse Público**
-	- **Significado:** 
-	- **Exemplo:**
-8. **Legalidade**
-	- **Significado:** 
-	- **Exemplo:**
-9. **Proporcionalidade**
-	- **Significado:** 
-	- **Exemplo:**
-10. **Moralidade**
-	- **Significado:** 
-	- **Exemplo:**
-11. **Motivação**
-	- **Significado:** 
-	- **Exemplo:**
+- Segurança Jurídica
+- Eficiência
+- Razoabilidade
+- Finalidade
+- Ampla Defesa
+- Contraditório
+- Interesse Público
+- Legalidade
+- Proporcionalidade
+- Moralidade
+- Motivação
+
+#### Segurança Jurídica
+##### O que é
