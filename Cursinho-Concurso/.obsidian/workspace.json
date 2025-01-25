@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lei 9.784.md",
+                "file": "Lei 9.784 - 99.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lei 9.784"
+              "title": "Lei 9.784 - 99"
             }
           }
         ]
@@ -111,10 +111,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lei 9.784.md"
+                "file": "Lei 9.784 - 99.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lei 9.784"
+              "title": "Outline of Lei 9.784 - 99"
             }
           },
           {
@@ -218,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,8 +240,8 @@
   "active": "bb0a82c90d097fc7",
   "lastOpenFiles": [
     "Lei 9.784.md",
-    "202501251230.md",
     "Lei 9.784 - 99.md",
+    "202501251230.md",
     "Imagens",
     "Imagens/Pasted image 20250122152755.png",
     "Cursinho-Concurso/Legislação",

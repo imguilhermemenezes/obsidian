@@ -127,4 +127,14 @@ A Lei 9.784/99 que regula os processos administrativos no âmbito da Administra�
 - ##### Exemplo Prático
 	Digitalizar o sistema de solicitação de documentos para evitar filas e agilizar o atendimento, reduzindo custos e tempo.
 
-#### 
+#### Razoabilidade
+- ##### O que é
+	Este princípio assegura que os atos administrativos sejam lógicos e coerentes, evitando abusos de poder. O agente público deve agir de forma compatível com o bom senso e com a proporcionalidade com os meios utilizados e os objetivos pretendidos.
+- ##### Características
+	- 
+- ##### Exemplo Prático
+
+
+# Lei completa
+
+Para conferir a lei completa siga o link: [[Lei 9.784]]
