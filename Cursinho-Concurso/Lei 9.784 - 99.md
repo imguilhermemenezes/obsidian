@@ -150,9 +150,26 @@ A Lei 9.784/99 que regula os processos administrativos no âmbito da Administra�
 	Ampla Defesa é o direto do administrado de utilizar todos os meios e recursos legais para se defender de qualquer decisão administrativa que o prejudique. Ele inclui o direito de acessar as informações, apresentar provas e argumentos, e contestar atos ou decisões.
 - ##### Elementos Principais
 	- **Acesso à informação:** O administrado deve conhecer todas as acusações ou provas contra ele.
-	- **Uso de meios legais:** Pode apresentar documentos, testemun
+	- **Uso de meios legais:** Pode apresentar documentos, testemunhas, laudos e outros recursos para defender seus interesses.
 - ##### Exemplo Prático
+	Um servidor público acusado de irregularidade administrativa tem o direito de apresentar documentos, depoimentos de colegas e provas técnicas que comprovem sua inocência.
 
+#### Contraditório
+- ##### O que é
+	É o direito de ser informado e de responder às acusações, influenciando no resultado do processo administrativo. Ele garante a participação ativa do interessado em todas as etapas do processo.
+- ##### Elementos Principais
+	- **Direito à notificação:** O administrado deve ser formalmente informado do processo.
+	- **Resposta ativa:** Pode contestar provas e apresentar sua versão dos fatos.
+- ##### Exemplo Prático
+	Antes de aplicar uma multa ambiental, o órgão público deve notificar o responsável, explicar as razões e permitir que ele apresente sua defesa.
+
+#### Interesse Público
+- ##### O que é
+	Este princípio orienta que a administração deve sempre priorizar o bem coletivo, acima de interesses individuais ou corporativos. 
+- ##### Características
+	- **Coletividade acima de tudo:** Decisões que favorecem apenas grupos específicos ou interesses privados não são aceitáveis.
+	- **Gest**
+- ##### Exemplo Prático
 
 
 
