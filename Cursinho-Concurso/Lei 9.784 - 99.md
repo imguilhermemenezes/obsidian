@@ -130,9 +130,31 @@ A Lei 9.784/99 que regula os processos administrativos no âmbito da Administra�
 #### Razoabilidade
 - ##### O que é
 	Este princípio assegura que os atos administrativos sejam lógicos e coerentes, evitando abusos de poder. O agente público deve agir de forma compatível com o bom senso e com a proporcionalidade com os meios utilizados e os objetivos pretendidos.
-- ##### Características
-	- 
+- ##### Elementos Principais
+	- **Lógica e bom senso:** As decisões devem ser compreensíveis e baseadas em argumentos racionais.
+	- **Evitar excessos:** Garantir que as sanções ou medidas administrativas não sejam desproporcionais à gravidade do fato.
 - ##### Exemplo Prático
+	Multar um pequeno comerciante em um valor exorbitante por um erro menor, como esquecer um selo em um produto, seria um ato irrazoável.
+
+#### Finalidade
+- ##### O que é
+	
+- ##### Características
+- ##### Exemplo Prático
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Lei completa
