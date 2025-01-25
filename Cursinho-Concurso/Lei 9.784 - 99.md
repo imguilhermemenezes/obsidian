@@ -119,6 +119,12 @@ A Lei 9.784/99 que regula os processos administrativos no âmbito da Administra�
 
 ####  Eficiência
 - ##### O que é
-	O princípio da eficiência exige que a Administração Pública seja ágil, econômica e produtiva, buscando alcançar os melhores resultados com uso racional dos recursos públicos. Não se trata apenas de fazer, mas de fazer bem,
-- ##### Elementos Principais
+	O princípio da eficiência exige que a Administração Pública seja ágil, econômica e produtiva, buscando alcançar os melhores resultados com uso racional dos recursos públicos. Não se trata apenas de fazer, mas de fazer bem, com qualidade e menor desperdício possível.
+- ##### Características
+	- **Agilidade:** Reduzir a burocracia desnecessária para facilitar a vida dos administrados.
+	- **Qualidade no atendimento:** Oferecer serviços públicos que atendam às necessidades da sociedade de forma satisfatória.
+	- **Otimização de recursos:** Usar recursos financeiros, humanos e materiais de forma racional e planejada.
 - ##### Exemplo Prático
+	Digitalizar o sistema de solicitação de documentos para evitar filas e agilizar o atendimento, reduzindo custos e tempo.
+
+#### 
