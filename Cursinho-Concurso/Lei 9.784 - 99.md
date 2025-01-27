@@ -248,13 +248,21 @@ Os **princípios implícitos** da Administração Pública são normas que, embo
 - ##### Características
 	- **Atuação proativa:** Cabe ao órgão público tomar as providências necessárias para o andamento do processo.
 	- **Autonomia administrativa:** A Administração não deve depender exclusivamente dos requerimentos das partes.
-	- 
+	- **Impulso oficial:** O processo administrativo não pode ser paralisado por inércia dos administrados.
 - ##### Exemplo Prático
+	Uma fiscalização tributária é iniciada por inciativa da Administração, sem que o contribuinte precise solicitar ou participar do início do procedimento.
 
 #### Informalismo
 - ##### O que é
+	Este princípio permite maior flexibilidade na condução dos processos administrativos, com o objetivo de priorizar o mérito e o conteúdo das demandas, em vez de se prender rigorosamente nas formalidades excessivas.
 - ##### Características
+	- **Simplificação:** Procedimentos devem ser simplificados para facilitar a vida do cidadão.
+	- **Flexibilidade:** Erros formais ou técnicos dos administrados não devem prejudicar o andamento do processo, desde que não comprometam a substância do direito.
+	- **Acessibilidade:** O informalismo busca tornar o acesso ao processo administrativo mais fácil para todos.
 - ##### Exemplo Prático
+	Um cidadão apresenta um documento sem a assinatura correta, mas o órgão público aceita e orienta sobre a correção, ao invés de simplesmente negar o pedido.
+
+
 
 
 
