@@ -224,8 +224,19 @@ Os **princípios implícitos** da Administração Pública são normas que, embo
 
 #### Gratuidade
 - ##### O que é
-	O princípio da gratuidade que, como regra, o acesso e servi
+	O princípio da gratuidade garante que, como regra, o acesso e serviço aos procedimentos administrativos seja isento de custo pelos administrados. Ele busca evitar barreiras financeiras que impeçam o cidadão de exercer seus direitos ou acessar os serviços públicos.
 - ##### Características
+	- **Acesso universal:** Qualquer cidadão, independente de sua condição financeira, deve poder acessar a Administração Pública.
+	- **Ausência de taxas:** Procedimentos administrativos não devem cobrar tarifas, salvo exceções previstas em lei (ex: emissão de documento).
+	- **Inclusão social:** Este princípio reforça a igualdade ao garantir que todos possam participar de processos administrativos. 
+- ##### Exemplo Prático
+	Um cidadão solicita a informações de um órgão público e não é cobrado por isso, pois o serviço é garantido gratuitamente como parte do direito de acesso.
+
+#### Verdade Material
+- ##### O que é
+	Este princípio determina que a Administração Pública deve buscar a realidade dos fatos, mesmo que para isso precise ir além das alegações apresentadas pelas partes envolvidas. Ele privilegia a substância sobre a forma, para garantir decisões justas e fundamentadas. 
+- ##### Características
+	- **Busca pela realidade dos fatos:** Não basta a administração aceitar as alegações das partes, 
 - ##### Exemplo Prático
 
 
