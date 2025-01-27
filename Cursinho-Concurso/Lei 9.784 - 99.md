@@ -215,6 +215,19 @@ Art. 2º A Administração Pública obedecerá, dentre outros, aos princípios d
 
 ### Princípios Implícitos
 
+Os **princípios implícitos** da Administração Pública são normas que, embora não estejam expressamente mencionadas em lei, decorrem da interpretação do ordenamento jurídico e são amplamente reconhecidos pela doutrina e jurisprudência. Sendo eles:
+
+- Gratuidade
+- Verdade Material
+- Oficialidade
+- Informalismo
+
+#### Gratuidade
+- ##### O que é
+	
+- ##### Características
+- ##### Exemplo Prático
+
 
 
 
