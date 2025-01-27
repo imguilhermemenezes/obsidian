@@ -224,7 +224,7 @@ Os **princípios implícitos** da Administração Pública são normas que, embo
 
 #### Gratuidade
 - ##### O que é
-	
+	O princípio da gratuidade que, como regra, o acesso e servi
 - ##### Características
 - ##### Exemplo Prático
 
