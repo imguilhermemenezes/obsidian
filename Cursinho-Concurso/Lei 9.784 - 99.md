@@ -229,6 +229,7 @@ Art. 2º A Administração Pública obedecerá, dentre outros, aos princípios d
 
 
 
+
 # Lei completa
 
 Para conferir a lei completa siga o link: [[Lei 9.784]]
