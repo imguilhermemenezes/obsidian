@@ -236,7 +236,24 @@ Os **princípios implícitos** da Administração Pública são normas que, embo
 - ##### O que é
 	Este princípio determina que a Administração Pública deve buscar a realidade dos fatos, mesmo que para isso precise ir além das alegações apresentadas pelas partes envolvidas. Ele privilegia a substância sobre a forma, para garantir decisões justas e fundamentadas. 
 - ##### Características
-	- **Busca pela realidade dos fatos:** Não basta a administração aceitar as alegações das partes, 
+	- **Busca pela realidade dos fatos:** Não basta a Administração aceitar as alegações das partes; é necessário averiguar os fatos.
+	- **Imparcialidade:** A Administração deve agir como uma investigadora neutra, buscando elementos que comprovem ou refutem os argumentos.
+	- **Prioridade da verdade:** O objetivo é alcançar uma decisão justa, mesmo que formalidades sejam flexibilizadas.
+- ##### Exemplo Prático
+	Ao analisar um pedido de benefício previdenciário, o INSS verifica dados adicionais no sistema ou realiza perícia medica, para confirmar se o requerente cumpre os requisitos legais.
+
+#### Oficialidade
+- ##### O que é
+	Pelo princípio da oficialidade, a Administração Pública tem o dever de iniciar, conduzir e direcionar os processos administrativos de ofício, sem depender exclusivamente da iniciativa ou esforço do administrado.
+- ##### Características
+	- **Atuação proativa:** Cabe ao órgão público tomar as providências necessárias para o andamento do processo.
+	- **Autonomia administrativa:** A Administração não deve depender exclusivamente dos requerimentos das partes.
+	- 
+- ##### Exemplo Prático
+
+#### Informalismo
+- ##### O que é
+- ##### Características
 - ##### Exemplo Prático
 
 
