@@ -262,6 +262,17 @@ Os **princípios implícitos** da Administração Pública são normas que, embo
 - ##### Exemplo Prático
 	Um cidadão apresenta um documento sem a assinatura correta, mas o órgão público aceita e orienta sobre a correção, ao invés de simplesmente negar o pedido.
 
+### Critérios
+
+**I -** atuação conforme a Lei e o Direito;
+**II -** atendimento a fins de interesse geral, vedada a renúncia total ou parcial de poderes ou competências, salvo autorização em lei;
+**III -** objetividade no atendimento do interesse público, vedada a promoção de interesse pessoal de agentes ou autoridades;
+**IV -** atuação segundo padrões éticos de probidade, decoro e boa-fé;
+**V -** divulgação oficial dos atos administrativos, ressalvas as hipóteses de sigilo previstas na Constituição;
+**VI -** adequação entre meios e fins, vedada a imposição de obrigações, restrições e sanções de medida superior àquelas estritamente necessárias ao atendimento do interesse público;
+**VII -** indicação dos pressupostos de fato e de direito que determinarem a decisão;
+**VIII -** observância das formalidade essenciais à garantia dos direitos dos administrados;
+**IX -** atuação de formas simples
 
 
 
