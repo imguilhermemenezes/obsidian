@@ -317,4 +317,5 @@ Os **princípios implícitos** da Administração Pública são normas que, embo
 
 # Lei completa
 
-Para conferir a lei completa siga o link: [[Lei 9.784]]
+
+<iframe src="https://www.planalto.gov.br/ccivil_03/leis/l9784.htm" width="100%" height="550"></iframe>
