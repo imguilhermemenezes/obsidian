@@ -297,6 +297,9 @@ Os **princípios implícitos** da Administração Pública são normas que, embo
 - Formular alegações e apresentar documentos antes da decisão, os quais serão objeto de consideração pelo órgão competente.
 - Fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação, por força de lei.
 
+### Jurisprudência
+
+
 
 
 
