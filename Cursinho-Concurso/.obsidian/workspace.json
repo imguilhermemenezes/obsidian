@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lei 9.784 - 99.md",
+                "file": "Legislação/Lei 9.784 - 99.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Lei 9.784 - 99"
             }
+          },
+          {
+            "id": "19b2328efdb0d5ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legislação/Lei 7.716 - 89.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lei 7.716 - 89"
+            }
+          },
+          {
+            "id": "82d8647c93ce4941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legislação/Lei 12.288 - 10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lei 12.288 - 10"
+            }
+          },
+          {
+            "id": "b802883e12581f03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legislação/Lei 7.716 - 89.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lei 7.716 - 89"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lei 9.784 - 99.md"
+                "file": "Legislação/Lei 7.716 - 89.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lei 9.784 - 99"
+              "title": "Outline of Lei 7.716 - 89"
             }
           },
           {
@@ -237,10 +280,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb0a82c90d097fc7",
+  "active": "b802883e12581f03",
   "lastOpenFiles": [
+    "Legislação/Lei 12.288 - 10.md",
+    "Legislação/Lei 13.146 - 15.md",
+    "Legislação/Lei 7.716 - 89.md",
+    "Legislação/Lei 9.784 - 99.md",
     "Lei 9.784.md",
-    "Lei 9.784 - 99.md",
     "Untitled.md",
     "202501251230.md",
     "Imagens",
@@ -268,9 +314,6 @@
     "Aprender a aprender - 5 passos.md",
     "Faculdade/Cálculo/Aula - 2024-11-04.md",
     "Faculdade/Arquitetura e Organização de Computadores/Portas Lógicas.md",
-    "Faculdade/Arquitetura e Organização de Computadores/Exercícios - Arquitetura RISC x CISC.md",
-    "Daily/2024-11-08.md",
-    "Faculdade/Arquitetura e Organização de Computadores/Arquitetura RISC x CISC.md",
     "Excalidraw",
     "Receitas",
     "Lista de Desejos",
