@@ -310,17 +310,19 @@ A súmula vinculante nº 5, do Supremo Tribunal Federal (STF), estabelece que:
 - **Processo Administrativo Disciplinar (PAC):** É um procedimento instaurado pela Administração Pública para apurar a conduta de um servidor público e, eventualmente, aplicar sanções, como advertência, suspensão ou demissão.
 - **Defesa Técnica por advogado:** Refere-se à representação ou assistência do servidor público por um advogado devidamente inscrito na Ordem dos Advogados do Brasil (OAB).
 
-Essa súmula esclarece que **não é obrigatório contratar um advogado para que o servidor exerça sua defesa em um processo administrativo disciplinar**. A ausência de um advogado não torna um processo inválido ou inconstr 
+Essa súmula esclarece que **não é obrigatório contratar um advogado para que o servidor exerça sua defesa em um processo administrativo disciplinar**. A ausência de um advogado não torna um processo inválido ou inconstitucional, desde que seja garantido o direito ao contraditório ou à ampla defesa.
 
+### Deveres do Administrado
 
+São deveres do administrado perante a Administração, sem prejuízo de outros previstos em ato normativo:
+- **I -** expor os fatos conforme a verdade.
+- **II -** proceder com lealdade, urbanidade e boa-fé.
+- **III -** não agir de modo temerário.
+- **IV -** prestar as informações que lhe forem solicitadas e colaborar para o esclarecimento dos fatos.
 
+#### Inciso I
 
-
-
-
-
-
-
+	"Expor os fatos conforme a verdade"
 
 
 
