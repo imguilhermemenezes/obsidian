@@ -324,6 +324,22 @@ São deveres do administrado perante a Administração, sem prejuízo de outros 
 
 	"Expor os fatos conforme a verdade"
 
+- ##### O que isso significa?
+	O administrado (cidadão, empresa ou qualquer pessoa que se relaciona com a Administração Pública) tem o dever de **dizer a verdade** ao fornecer informações, documentos ou depoimentos durante o processo administrativo. Isso inclui não omitir fatos relevantes ou fornecer informações falsas.
+- ##### Exemplo Prático:
+	Se um cidadão está preenchendo um formulário para solicitar um benefício social, ele deve fornecer informações verdadeiras sobre sua renda, situação familiar e outros dados solicitados. Se mentir ou omitir informações, poderá ser penalizado.
+- ##### Consequências do descumprimento:
+	O fornecimento de informações falsas pode levar à **anulação do ato administrativo**, à **aplicação de sanções** (como multas) ou até mesmo à **responsabilização civil ou penal** do administrado.
+
+#### Inciso II
+
+	"Proceder com lealdade, urbanidade e boa-fé"
+
+- ##### O que isso significa?
+	O administrado deve agir com **honestidade**, **respeito** e **boa-fé** em suas relações com a Administração Pública. Isso inclui tratar os servidores públicos com educação e evitar comportamentos desrespeitosos ou desleais. 
+- ##### Exemplo Prático:
+	
+- ##### Consequências do descumprimento:
 
 
 
