@@ -431,8 +431,13 @@ Quando o processo é iniciado a pedido de um interessado, o **requerimento inici
 - ##### O que isso significa?
 	Se várias pessoas tiverem **solicitações idênticas** (como o mesmo conteúdo e fundamentos legais), elas podem **unir seu pedidos em um único requerimento**. Isso evita a multiplicação de processos administrativos para mesmo assunto.
 - ##### Condições para requerimentos coletivos:
-	
+	1. Os pedidos devem ter **conteúdo idêntico** (mesmo solicitação).
+	2. Devem ter **fundamentos legais idênticos** (mesma base jurídica).
+	3. Não deve haver **impedimento legal** para o requerimento coletivo (algumas leis podem exigir pedidos individuais).
 - ##### Exemplo prático:
+	Um grupo de moradores de um bairro que deseja solicitar a instalação de um semáforo em uma via perigosa pode apresentar um **único requerimento coletivo**, assinado por todos os interessados, em vez de cada morador fazer um pedido separado.
+
+### Interessados
 
 
 # Lei completa
