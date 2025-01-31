@@ -412,10 +412,27 @@ Quando o processo é iniciado a pedido de um interessado, o **requerimento inici
 É vedada à Administração a recusa de recebimento de documentos, devendo o servidor orientar o interessado quanto ao suprimento de eventuais falhas.
 
 - - -
-
 #### Padronização de Formulários
 
-	"Os órgãos e entidades administrativas deverão elabborar modelos ou formulários padronizados para assuntos que importem pretens~"
+	"Os órgãos e entidades administrativas deverão elabborar modelos ou formulários padronizados para assuntos que importem pretensões equivalentes."
+
+- ##### O que isso significa?
+	A administração Pública deve criar **formulários padronizados** para processos administrativos que envolvam **solicitações semelhantes**. Isso facilita o preenchimento pelos cidadãos e agiliza a análise por parte dos órgãos públicos.
+- ##### Objetivo:
+	A padronização visa garantir **eficiência**, **uniformidade**, e **facilidade de acesso** aos serviços públicos, evitando que cada cidadão precise redigir um requerimento do zero.
+- ##### Exemplo prático:
+	Um órgão ambiental pode criar um formulário padrão para solicitação de licença ambiental, com campos pré-definidos para informações como localização do empreendimento, tipo de atividade, impacto ambiental esperado, etc. Isso evita que os cidadãos cometam erros ou omissões no preenchimento.
+
+- - - 
+#### Requerimentos Coletivos
+
+	"Quanddo os pedidos de uma pluralidade de interessados tiverem conteúdo e fundamentos idênticos, poderão ser formulados em um único requerimento, salvo preceito legal em contrário."
+
+- ##### O que isso significa?
+	Se várias pessoas tiverem **solicitações idênticas** (como o mesmo conteúdo e fundamentos legais), elas podem **unir seu pedidos em um único requerimento**. Isso evita a multiplicação de processos administrativos para mesmo assunto.
+- ##### Condições para requerimentos coletivos:
+	
+- ##### Exemplo prático:
 
 
 # Lei completa
