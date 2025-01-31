@@ -366,14 +366,27 @@ São deveres do administrado perante a Administração, sem prejuízo de outros 
 
 ### Início do Processo
 
-O processo administrativo pode iniciar-se de ofício ou a pedido de interessado.
+#### Início do Processo Administrativo
 
-O requerimento inicial do interessado, salvo casos em que for admitida solicitação oral, deve ser formulado por escrito e conter os seguintes dados:
+O processo administrativo pode ser iniciado de duas formas:
 
-- **I -** órgão ou autoridade administrativa a que se dirige.
-- **II -** identificação do interessado ou de quem o represente.
-- **III -** domicílio do requerente ou local para recebimento de comunicações.
-- **IV -** formulação do pedido, com exposição do
+1. **De ofício:** Quando a Administração Pública inicia o processo por sua própria iniciativa, sem que haja um pedido de um interessado.
+2. **A pedido de interessado:** Quando um cidadão, empresa ou qualquer pessoa com interesse no assunto solicita o início do processo.
+
+- **Exemplos:**
+	- **De ofício:** A Receita Federal inicia um processo de fiscalização para apurar possíveis irregularidades em uma declaração de imposto de renda.
+	- **A pedido de interessado:** Um cidadão solicita uma licença ambiental para construir um empreendimento.
+
+#### Requerimento Inicial
+
+Quando o processo é iniciado a pedido de um interessado, o **requerimento inicial** deve ser formulado por escrito (salvo em casos em que a lei permite solicitação oral). Esse requerimento deve conter os seguintes dados:
+
+- ##### I - órgão ou autoridade administrativa a que se dirige.
+	- 
+- ##### II - identificação do interessado ou de quem o represente.
+- ##### III - domicílio do requerente ou local para recebimento de comunicações.
+- ##### IV - formulação do pedido, com exposição dos fatos e de seus fundamentos.
+- ##### V - data e assinatura e requerente ou de seu representante.
 
 
 
