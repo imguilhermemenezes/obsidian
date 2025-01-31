@@ -377,6 +377,7 @@ O processo administrativo pode ser iniciado de duas formas:
 	- **De ofício:** A Receita Federal inicia um processo de fiscalização para apurar possíveis irregularidades em uma declaração de imposto de renda.
 	- **A pedido de interessado:** Um cidadão solicita uma licença ambiental para construir um empreendimento.
 
+- - -
 #### Requerimento Inicial
 
 Quando o processo é iniciado a pedido de um interessado, o **requerimento inicial** deve ser formulado por escrito (salvo em casos em que a lei permite solicitação oral). Esse requerimento deve conter os seguintes dados:
@@ -405,10 +406,14 @@ Quando o processo é iniciado a pedido de um interessado, o **requerimento inici
 - ###### O que isso significa?
 	O requerimento deve ser datado e assinado pelo próprio interessado ou por seu representante legal (como um advogado). A data é importante para verificar o cumprimento de prazos, e a assinatura confere autenticidade ao documento.
 - ###### Exemplo Prático
-	Um requerimento de licença ambiental dever 
+	Um requerimento de licença ambiental deve ser datado e assinado pelo empresário ou por seu advogado, se houver representação.
 
+##### Atenção!
+É vedada à Administração a recusa de recebimento de documentos, devendo o servidor orientar o interessado quanto ao suprimento de eventuais falhas.
 
+- - -
 
+#### Padronização de Formulários
 
 
 
