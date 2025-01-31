@@ -444,7 +444,22 @@ Quando o processo é iniciado a pedido de um interessado, o **requerimento inici
 O processo administrativo pode envolver diferentes tipos de interessados, dependendo da natureza do direito ou interesse em questão. O Art. 9º da Lei 9.784/99 estabelece quatro categorias de legitimados:
 
 ##### Inciso I
-	Pessoas f
+
+	Pessoas físicas ou jurídicas que incluam como titulares de direitos ou interesses individuais oou no exercício do direito de representação.
+
+- ###### O que isso significa?
+	Qualquer pessoa física (cidadão) ou jurídica (empresa, organização) que **inicie o processo administrativo** para defender um **direito ou interesse individual** ou que aja em nome de outra pessoa (como um representante legal) está legitimada a participar do processo.
+- ###### Exercício prático:
+	- Um cidadão que solicita uma licença ambiental para construir uma casa.
+	- Um advogado que representa uma empresa em um processo de licitação.
+
+#### Inciso II
+
+	Aqueles que, sem terem iniciado o processo, têm direitos ou interesses que possam ser afetados pela decisão a ser adotada.
+
+- ###### O que isso significa?
+	Pessoas ou entidades que **não iniciaram o processo**, mas que podem 
+- ###### Exemplo prático:
 # Lei completa
 
 
