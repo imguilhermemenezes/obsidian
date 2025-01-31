@@ -439,7 +439,12 @@ Quando o processo é iniciado a pedido de um interessado, o **requerimento inici
 
 ### Interessados
 
+#### Legitimação de Interessados no Processo Administrativo
 
+O processo administrativo pode envolver diferentes tipos de interessados, dependendo da natureza do direito ou interesse em questão. O Art. 9º da Lei 9.784/99 estabelece quatro categorias de legitimados:
+
+##### Inciso I
+	Pessoas f
 # Lei completa
 
 
