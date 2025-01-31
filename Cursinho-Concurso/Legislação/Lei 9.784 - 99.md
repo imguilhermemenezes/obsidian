@@ -381,12 +381,31 @@ O processo administrativo pode ser iniciado de duas formas:
 
 Quando o processo é iniciado a pedido de um interessado, o **requerimento inicial** deve ser formulado por escrito (salvo em casos em que a lei permite solicitação oral). Esse requerimento deve conter os seguintes dados:
 
-- ##### I - órgão ou autoridade administrativa a que se dirige.
-	- 
-- ##### II - identificação do interessado ou de quem o represente.
-- ##### III - domicílio do requerente ou local para recebimento de comunicações.
-- ##### IV - formulação do pedido, com exposição dos fatos e de seus fundamentos.
-- ##### V - data e assinatura e requerente ou de seu representante.
+##### I - órgão ou autoridade administrativa a que se dirige.
+- ###### O que isso significa?
+	O requerente deve indicar qual órgão ou autoridade está dirigindo o pedido. Isso é importante para que o processo seja encaminhado ao setor competente.
+- ###### Exemplo Prático
+	Se um cidadão deseja solicitar uma licença ambiental, ele deve dirigir o requerimento ao órgão ambiental competente, como o IBAMA ou a Secretaria de Meio Ambiente do estado.
+##### II - identificação do interessado ou de quem o represente.
+- ###### O que isso significa?
+	O requerente deve se identificar, fornecendo nome completo, CPF, CPNJ (no caso de empresas) ou outros dados necessários. Se o requerimento for feito por um representante (como um advogado), ele também deve ser identificado.
+- ###### Exemplo Prático
+	Um empresário que solicita um alvará de funcionamento deve fornecer seu nome e CNPJ da empresa. Se ele estiver representado por um advogado, o nome e a OAB do advogado também devem constar no requerimento.
+##### III - domicílio do requerente ou local para recebimento de comunicações.
+- ###### O que isso significa?
+	O requerente deve informar um endereço (físico ou eletrônico) onde poderá receber comunicações da Administração Pública, como notificações, intimações e decisões.
+- ###### Exemplo Prático
+	Um cidadão que solicita um benefício social deve informar seu endereço residencial ou um e-mail para receber informações sobre o andamento do processo.
+##### IV - formulação do pedido, com exposição dos fatos e de seus fundamentos.
+- ###### O que isso significa?
+	O requerente deve descrever claramente o que está solicitando e apresentar os fatos que justificam o pedido, bem como os fundamentos legais que embasam a solicitação.
+- ###### Exemplo Prático
+	Um cidadão que solicita a revisão de um benefício previdenciário deve explicar por que ele acredita que tem direito à revisão, citando os fatos relevantes (como tempo de contribuição) e os dispositivos legais que sustentam seu pedido.
+##### V - data e assinatura e requerente ou de seu representante.
+- ###### O que isso significa?
+	O requerimento deve ser datado e assinado pelo próprio interessado ou por seu representante legal (como um advogado). A data é importante para verificar o cumprimento de prazos, e a assinatura confere autenticidade ao documento.
+- ###### Exemplo Prático
+	Um requerimento de licença ambiental dever 
 
 
 
