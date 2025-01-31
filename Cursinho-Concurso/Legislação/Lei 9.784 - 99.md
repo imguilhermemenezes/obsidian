@@ -453,13 +453,41 @@ O processo administrativo pode envolver diferentes tipos de interessados, depend
 	- Um cidadão que solicita uma licença ambiental para construir uma casa.
 	- Um advogado que representa uma empresa em um processo de licitação.
 
-#### Inciso II
+##### Inciso II
 
 	Aqueles que, sem terem iniciado o processo, têm direitos ou interesses que possam ser afetados pela decisão a ser adotada.
 
 - ###### O que isso significa?
-	Pessoas ou entidades que **não iniciaram o processo**, mas que podem 
+	Pessoas ou entidades que **não iniciaram o processo**, mas que podem ser **diretamente afetadas** pela decisão administrativa, também são consideradas legitimadas. Elas têm o direito de participar do processo para defender seus interesses.
 - ###### Exemplo prático:
+	- Um morador que poder ser afetado por uma obra pública em seu bairro e deseja se manifestar no processo de licenciamento ambiental.
+	- Uma empresa concorrente que pode ser impactada por uma decisão sobre um contrato público.
+
+##### Inciso III
+
+	As organizações e associações representativas, no tocante a direitos e interesses coletivos.
+
+- ###### O que isso significa?
+	Organizações e associações que representam grupos específicos (como sindicatos, associações de classe ou ONGs) podem participar do processo administrativo para defender **direitos ou interesses coletivos** (ou seja, de um grupo de pessoas).
+- ###### Exemplo prático:
+	- Um sindicato que participa de um processo administrativo para discutir políticas trabalhistas.
+	- Uma ONG ambiental que intervém em um processo de licenciamento de uma grande obra.
+
+##### Inciso IV
+
+	As pessoas ou associações legalmente constituídas quanto a direitos ou interesses difusos.
+
+- ###### O que isso significa?
+	Pessoas ou associações podem participar do processo administrativo para defender **direitos ou interesses difusos**, ou seja, aqueles que pertencem a toda a sociedade ou a um grupo indeterminado de pessoas. Esses direitos não são individuais, mas coletivos e indivisíveis.
+- ###### Exemplo prático:
+	- Uma associação de consumidores que atua em um processo administrativo para defender o direito à qualidade de um produto que afeta toda a população.
+	- Uma ONG que defende o meio ambiente em um processo de uma atividade poluente.
+
+- - -
+#### Capacidade para Participar do Processo Administrativo
+
+
+
 # Lei completa
 
 
