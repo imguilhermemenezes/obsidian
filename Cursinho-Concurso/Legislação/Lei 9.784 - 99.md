@@ -347,9 +347,27 @@ São deveres do administrado perante a Administração, sem prejuízo de outros 
 	"Não agir de modo temerário."
 
 - ##### O que isso significa?
-	O administrado não deve agir de forma **imprudente**, **irresponsável** ou **abusiva** durante
+	O administrado não deve agir de forma **imprudente**, **irresponsável** ou **abusiva** durante o processo administrativo. Isso inclui evitar alegações infundadas, recursos desnecessários ou qualquer conduta que cause prejuízo à Administração ou a terceiros.
 - ##### Exemplo Prático:
+	Um cidadão que interpõe recursos administrativos repetidamente, sem fundamentação legal, apenas para protelar uma decisão, está agindo de modo temerário.
 - ##### Consequências do descumprimento:
+	A conduta temerária pode levar à **rejeição sumária** de recursos ou alegações, à **aplicação de multas** ou à **responsabilização por danos** causados à administração.
+
+#### Inciso IV
+
+	"Prestar as informações que lhe fores solicitadas e colaborar para o esclarecimento dos fatos."
+
+- ##### O que significa?
+	O administrado tem o dever de **colaborar** com a Administração Pública, fornecendo informações, documentos ou qualquer outro elemento necessário para o esclarecimento dos fatos no processo administrativo.
+- ##### Exemplo Prático:
+	Se a Receita Federal solicita documentos para comprovar a declaração de imposto de renda de uma empresa, a empresa deve fornecer os documentos solicitados dentro do prazo estabelecido.
+- ##### Consequências do descumprimento:
+	A recusa em prestar informações ou colaborar pode resultar em **sanções administrativas**, como multas, ou até mesmo em **decisões desfavoráveis** no processo.
+
+### Início do Processo
+
+O processo administrativo pode iniciar-se de ofício ou a pedido de interessado.
+
 
 
 
