@@ -296,12 +296,21 @@ Os administrados tem os seguintes direitos perante a administração, sem preju�
 
 - **I -** Ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o exercício de seus direitos e o cumprimento de suas obrigações.
 - **II -** Ter ciência da tramitação dos processos administrativos em que tenha a condição de interessado, ter vista dos autos, obter cópias de documentos nele contidos e conhecer as decisões proferidas.
-- Formular alegações e apresentar documentos antes da decisão, os quais serão objeto de consideração pelo órgão competente.
-- Fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação, por força de lei.
+- **III -** Formular alegações e apresentar documentos antes da decisão, os quais serão objeto de consideração pelo órgão competente.
+- **IV -** Fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação, por força de lei.
 
 ### Jurisprudência
 
+A súmula vinculante nº 5, do Supremo Tribunal Federal (STF), estabelece que:
 
+	"A falta de defesa técnica por advogado no processo administrativo 
+	disciplinar não ofende a Constituição Federal"
+
+#### O que significa?
+- **Processo Administrativo Disciplinar (PAC):** É um procedimento instaurado pela Administração Pública para apurar a conduta de um servidor público e, eventualmente, aplicar sanções, como advertência, suspensão ou demissão.
+- **Defesa Técnica por advogado:** Refere-se à representação ou assistência do servidor público por um advogado devidamente inscrito na Ordem dos Advogados do Brasil (OAB).
+
+Essa súmula esclarece que **não é obrigatório contratar um advogado para que o servidor exerça sua defesa em um processo administrativo disciplinar**. A ausência de um advogado não torna um processo inválido ou inconstr 
 
 
 
