@@ -368,7 +368,12 @@ São deveres do administrado perante a Administração, sem prejuízo de outros 
 
 O processo administrativo pode iniciar-se de ofício ou a pedido de interessado.
 
+O requerimento inicial do interessado, salvo casos em que for admitida solicitação oral, deve ser formulado por escrito e conter os seguintes dados:
 
+- **I -** órgão ou autoridade administrativa a que se dirige.
+- **II -** identificação do interessado ou de quem o represente.
+- **III -** domicílio do requerente ou local para recebimento de comunicações.
+- **IV -** formulação do pedido, com exposição do
 
 
 
