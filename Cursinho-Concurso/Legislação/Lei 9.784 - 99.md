@@ -338,7 +338,17 @@ São deveres do administrado perante a Administração, sem prejuízo de outros 
 - ##### O que isso significa?
 	O administrado deve agir com **honestidade**, **respeito** e **boa-fé** em suas relações com a Administração Pública. Isso inclui tratar os servidores públicos com educação e evitar comportamentos desrespeitosos ou desleais. 
 - ##### Exemplo Prático:
-	
+	Durante uma audiência administrativa, o administrado deve se comportar de forma respeitosa, sem interromper os servidores ou agir de forma agressiva. Além disso, deve agir com lealdade, sem tentar manipular ou enganar a Administração.
+- ##### Consequências do descumprimento:
+	Comportamentos desrespeitosos ou desleais podem resultar em **advertências**, **suspenção de direitos** ou até mesmo  **penalidades administrativas**.
+
+#### Inciso III
+
+	"Não agir de modo temerário."
+
+- ##### O que isso significa?
+	O administrado não deve agir de forma **imprudente**, **irresponsável** ou **abusiva** durante
+- ##### Exemplo Prático:
 - ##### Consequências do descumprimento:
 
 
