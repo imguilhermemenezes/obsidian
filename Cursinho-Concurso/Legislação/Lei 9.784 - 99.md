@@ -415,6 +415,7 @@ Quando o processo é iniciado a pedido de um interessado, o **requerimento inici
 
 #### Padronização de Formulários
 
+	"Os órgãos e entidades administrativas deverão elabborar modelos ou formulários padronizados para assuntos que importem pretens~"
 
 
 # Lei completa
