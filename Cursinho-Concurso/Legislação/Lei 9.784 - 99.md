@@ -486,6 +486,15 @@ O processo administrativo pode envolver diferentes tipos de interessados, depend
 - - -
 #### Capacidade para Participar do Processo Administrativo
 
+	São capazes, para fins de processo administrativo, os maiores de dezoito anos, ressalvada previsão especial em ato normativo próprio.
+
+- ##### O que isso significa?
+	Para participar do processo administrativo, a pessoa deve ter capacidade legal, ou seja, ser **maior de 18 anos**. Menores de idade ou pessoas incapazes (como aqueles com problemas mentais) precisam ser representadas por seus responsáveis legais.
+- ##### Exceções:
+	Em casos específicos, leis ou normas podem estabelecer regras diferentes para a capacidade de participar do processo administrativo.
+- ##### Exemplo prático:
+	- Um jovem de 20 anos pode solicitar um benefício social diretamente sem necessidade de representação.
+	- Um menor de idade que deseja solicitar um documento precisa ser representado por seus pais ou responsáveis legais.
 
 
 # Lei completa
