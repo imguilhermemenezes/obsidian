@@ -292,8 +292,10 @@ Os **princípios implícitos** da Administração Pública são normas que, embo
 
 ### Direitos dos Administrados
 
-- Ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o exercício de seus direitos e o cumprimento de suas obrigações.
-- Ter ciência da tramitação dos processos administrativos em que tenha a condição de interessado, ter vista dos autos, obter cópias de documentos nele contidos e conhecer as decisões proferidas.
+Os administrados tem os seguintes direitos perante a administração, sem prejuízos de outros que lhe sejam segurados:
+
+- **I -** Ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o exercício de seus direitos e o cumprimento de suas obrigações.
+- **II -** Ter ciência da tramitação dos processos administrativos em que tenha a condição de interessado, ter vista dos autos, obter cópias de documentos nele contidos e conhecer as decisões proferidas.
 - Formular alegações e apresentar documentos antes da decisão, os quais serão objeto de consideração pelo órgão competente.
 - Fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação, por força de lei.
 
