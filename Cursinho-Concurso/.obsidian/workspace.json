@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Legislação/Lei 13.146 - 15.md",
+                "file": "Legislação/Lei 9.784 - 99.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lei 13.146 - 15"
-            }
-          },
-          {
-            "id": "186ee9f65afdbaf5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "Lei 9.784 - 99"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,13 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Legislação/Lei 13.146 - 15.md",
+                "file": "Legislação/Lei 9.784 - 99.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lei 13.146 - 15"
+              "title": "Outline of Lei 9.784 - 99"
             }
           },
           {
@@ -254,12 +241,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "186ee9f65afdbaf5",
+  "active": "9576c2eaa63786b9",
   "lastOpenFiles": [
-    "Legislação/Lei 7.716 - 89.md",
-    "Legislação/Lei 12.288 - 10.md",
     "Legislação/Lei 9.784 - 99.md",
     "Legislação/Lei 13.146 - 15.md",
+    "Legislação/Lei 7.716 - 89.md",
+    "Legislação/Lei 12.288 - 10.md",
     "Lei 9.784.md",
     "Untitled.md",
     "202501251230.md",
