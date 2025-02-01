@@ -355,7 +355,8 @@ São deveres do administrado perante a Administração, sem prejuízo de outros 
 
 #### Inciso IV
 
-	"Prestar as informações que lhe fores solicitadas e colaborar para o esclarecimento dos fatos."
+	"Prestar as informações que lhe fores solicitadas e colaborar para o 
+	esclarecimento dos fatos."
 
 - ##### O que significa?
 	O administrado tem o dever de **colaborar** com a Administração Pública, fornecendo informações, documentos ou qualquer outro elemento necessário para o esclarecimento dos fatos no processo administrativo.
@@ -414,7 +415,8 @@ Quando o processo é iniciado a pedido de um interessado, o **requerimento inici
 - - -
 #### Padronização de Formulários
 
-	"Os órgãos e entidades administrativas deverão elabborar modelos ou formulários padronizados para assuntos que importem pretensões equivalentes."
+	"Os órgãos e entidades administrativas deverão elabborar modelos ou 
+	formulários padronizados para assuntos que importem pretensões equivalentes."
 
 - ##### O que isso significa?
 	A administração Pública deve criar **formulários padronizados** para processos administrativos que envolvam **solicitações semelhantes**. Isso facilita o preenchimento pelos cidadãos e agiliza a análise por parte dos órgãos públicos.
@@ -426,7 +428,9 @@ Quando o processo é iniciado a pedido de um interessado, o **requerimento inici
 - - - 
 #### Requerimentos Coletivos
 
-	"Quanddo os pedidos de uma pluralidade de interessados tiverem conteúdo e fundamentos idênticos, poderão ser formulados em um único requerimento, salvo preceito legal em contrário."
+	"Quanddo os pedidos de uma pluralidade de interessados tiverem conteúdo e 
+	fundamentos idênticos, poderão ser formulados em um único requerimento, salvo 
+	preceito legal em contrário."
 
 - ##### O que isso significa?
 	Se várias pessoas tiverem **solicitações idênticas** (como o mesmo conteúdo e fundamentos legais), elas podem **unir seu pedidos em um único requerimento**. Isso evita a multiplicação de processos administrativos para mesmo assunto.
@@ -445,7 +449,8 @@ O processo administrativo pode envolver diferentes tipos de interessados, depend
 
 ##### Inciso I
 
-	Pessoas físicas ou jurídicas que incluam como titulares de direitos ou interesses individuais oou no exercício do direito de representação.
+	Pessoas físicas ou jurídicas que incluam como titulares de direitos ou 
+	interesses individuais oou no exercício do direito de representação.
 
 - ###### O que isso significa?
 	Qualquer pessoa física (cidadão) ou jurídica (empresa, organização) que **inicie o processo administrativo** para defender um **direito ou interesse individual** ou que aja em nome de outra pessoa (como um representante legal) está legitimada a participar do processo.
@@ -455,7 +460,8 @@ O processo administrativo pode envolver diferentes tipos de interessados, depend
 
 ##### Inciso II
 
-	Aqueles que, sem terem iniciado o processo, têm direitos ou interesses que possam ser afetados pela decisão a ser adotada.
+	Aqueles que, sem terem iniciado o processo, têm direitos ou interesses que 
+	possam ser afetados pela decisão a ser adotada.
 
 - ###### O que isso significa?
 	Pessoas ou entidades que **não iniciaram o processo**, mas que podem ser **diretamente afetadas** pela decisão administrativa, também são consideradas legitimadas. Elas têm o direito de participar do processo para defender seus interesses.
@@ -465,7 +471,8 @@ O processo administrativo pode envolver diferentes tipos de interessados, depend
 
 ##### Inciso III
 
-	As organizações e associações representativas, no tocante a direitos e interesses coletivos.
+	As organizações e associações representativas, no tocante a direitos e 
+	interesses coletivos.
 
 - ###### O que isso significa?
 	Organizações e associações que representam grupos específicos (como sindicatos, associações de classe ou ONGs) podem participar do processo administrativo para defender **direitos ou interesses coletivos** (ou seja, de um grupo de pessoas).
@@ -475,7 +482,8 @@ O processo administrativo pode envolver diferentes tipos de interessados, depend
 
 ##### Inciso IV
 
-	As pessoas ou associações legalmente constituídas quanto a direitos ou interesses difusos.
+	As pessoas ou associações legalmente constituídas quanto a direitos ou 
+	interesses difusos.
 
 - ###### O que isso significa?
 	Pessoas ou associações podem participar do processo administrativo para defender **direitos ou interesses difusos**, ou seja, aqueles que pertencem a toda a sociedade ou a um grupo indeterminado de pessoas. Esses direitos não são individuais, mas coletivos e indivisíveis.
@@ -486,7 +494,8 @@ O processo administrativo pode envolver diferentes tipos de interessados, depend
 - - -
 #### Capacidade para Participar do Processo Administrativo
 
-	São capazes, para fins de processo administrativo, os maiores de dezoito anos, ressalvada previsão especial em ato normativo próprio.
+	São capazes, para fins de processo administrativo, os maiores de dezoito 
+	anos, ressalvada previsão especial em ato normativo próprio.
 
 - ##### O que isso significa?
 	Para participar do processo administrativo, a pessoa deve ter capacidade legal, ou seja, ser **maior de 18 anos**. Menores de idade ou pessoas incapazes (como aqueles com problemas mentais) precisam ser representadas por seus responsáveis legais.
