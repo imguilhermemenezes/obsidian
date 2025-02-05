@@ -505,6 +505,26 @@ O processo administrativo pode envolver diferentes tipos de interessados, depend
 	- Um jovem de 20 anos pode solicitar um benefício social diretamente sem necessidade de representação.
 	- Um menor de idade que deseja solicitar um documento precisa ser representado por seus pais ou responsáveis legais.
 
+### Competência
+
+#### Competência Administrativa
+
+
+	"A competência é irrenunciável e se exerce pelos órgãos administrativos a que foi atribuída como própria, salvo os casos de delegação e avocação legalmente adminitidos."
+
+- ##### O que isso significa?
+	A **competência** é o poder e a responsabilidade que um órgão ou agente público tem para praticar atos normativos. Essa competência é:
+	1. **Irrenunciável:** O órgão ou agente não pode abrir mão de sua competência; ele é obrigado a exercê-la.
+	2. **Própria:** A competência é atribuída por lei a um órgão específico, que deve exercê-la diretamente.
+	3. **Exceções:** A competência pode ser **delegada** ou **avogada** em casos previstos em lei.
+- ##### Exemplo Prático
+	Se a lei atribui a um órgão ambiental a competência para emitir licenças ambientais, esse órgão não pode se recusar a exercer essa função, a menos que a lei permita a delegação ou avocação.
+
+- - -
+#### Delegação de Competência
+
+	"Um órgão administrativo e seu titular poderão, se não houver impedimento legal, delegar parte de sua competência a outro"
+
 
 # Lei completa
 
