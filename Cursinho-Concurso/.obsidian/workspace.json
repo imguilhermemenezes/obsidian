@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Direito Administrativo.md",
+                "file": "Legislação/Lei 9.784 - 99.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Direito Administrativo"
+              "title": "Lei 9.784 - 99"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bfa14fcf0dad3fe7",
@@ -127,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Direito Administrativo.md",
+                "file": "Legislação/Lei 9.784 - 99.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Direito Administrativo"
+              "title": "Outline of Lei 9.784 - 99"
             }
           },
           {
@@ -237,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,8 +260,8 @@
   },
   "active": "2545b8919f1c0b7e",
   "lastOpenFiles": [
-    "Legislação/Lei 9.784 - 99.md",
     "Direito Administrativo.md",
+    "Legislação/Lei 9.784 - 99.md",
     "Legislação/Lei 13.146 - 15.md",
     "Legislação/Lei 7.716 - 89.md",
     "Legislação/Lei 12.288 - 10.md",
