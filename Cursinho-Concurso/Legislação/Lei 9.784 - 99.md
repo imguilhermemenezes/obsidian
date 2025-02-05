@@ -516,14 +516,28 @@ O processo administrativo pode envolver diferentes tipos de interessados, depend
 	A **competência** é o poder e a responsabilidade que um órgão ou agente público tem para praticar atos normativos. Essa competência é:
 	1. **Irrenunciável:** O órgão ou agente não pode abrir mão de sua competência; ele é obrigado a exercê-la.
 	2. **Própria:** A competência é atribuída por lei a um órgão específico, que deve exercê-la diretamente.
-	3. **Exceções:** A competência pode ser **delegada** ou **avogada** em casos previstos em lei.
-- ##### Exemplo Prático
+	3. **Exceções:** A competência pode ser **delegada** ou **avocada** em casos previstos em lei.
+- ##### Exemplo prático:
 	Se a lei atribui a um órgão ambiental a competência para emitir licenças ambientais, esse órgão não pode se recusar a exercer essa função, a menos que a lei permita a delegação ou avocação.
 
 - - -
 #### Delegação de Competência
 
-	"Um órgão administrativo e seu titular poderão, se não houver impedimento legal, delegar parte de sua competência a outro"
+	"Um órgão administrativo e seu titular poderão, se não houver impedimento legal, delegar parte de sua competência a outros órgãos ou titulares, ainda que estes não lhe sejam hierarquicamente subordinados, quando for conveniente, em razão de circunstâncias de índole técnica, social, econômica, jurídica ou territorial."
+
+- ##### O que isso significa?
+	A **delegação** ocorre quando um órgão ou agente público transfere parte de sua competência para outro órgão ou agente, mesmo que não haja relação hierárquica entre eles. Essa transferência é permitida quando **conveniente** por motivos como:
+	1. **Técnico:** Quando o órgão delegado tem mais expertise no assunto.
+	2. **Sociais:** Para atender melhor às necessidades da população.
+	3. **Econômicos:** Para reduzir custos ou otimizar recursos.
+	4. **Jurídicos:** Quando a lei permite delegação.
+	5. **Territoriais:** Para facilitar a atuação em determinada região.
+- ##### Condições para delegação:
+	1. **Não pode haver impedimento legal:** A lei não pode proibir a delegação.
+	2. **Apenas parte da competência pode ser delegada:** O órgão delegante não pode transferir toda a competência.
+	3. **Deve ser formalizada:** A delegação deve ser feita por meio de ato administrativo formal.
+- ##### Exemplo prático:
+	O Ministério do Meio Ambiente pode delegar a competência para emitir licenças ambientais a um órgão estadual, como o Instituto Estadual do Meio Ambiente, desde que isso seja conveniente e permitido por lei.
 
 
 # Lei completa
