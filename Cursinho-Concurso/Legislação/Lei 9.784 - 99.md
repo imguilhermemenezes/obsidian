@@ -539,6 +539,9 @@ O processo administrativo pode envolver diferentes tipos de interessados, depend
 - ##### Exemplo prático:
 	O Ministério do Meio Ambiente pode delegar a competência para emitir licenças ambientais a um órgão estadual, como o Instituto Estadual do Meio Ambiente, desde que isso seja conveniente e permitido por lei.
 
+### Inicio do Processo
+
+
 
 # Lei completa
 
