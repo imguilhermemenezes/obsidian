@@ -12,4 +12,4 @@
 	- [ ] Suporte [Combo Monitor Stand 65cm e Suporte Notebook Freijó]([https://amzn.to/3SLrN9b](https://www.amazon.com.br/dp/B0C76N4X2K))
 	- [ ] MousePad [Desk Pad Eddias em Couro Ecologico 90x40cm + Porta-Copos - (Preto)](amzn.to/3SCpjbY)
 	- [ ] Teclado e Mouse [Dell - KM3322W, Teclado e Mouse sem fio, Preto](https://www.amazon.com.br/dp/B0BPTK4P38)
-	- [ ] 
+	- [ ] Peg Board [link](https://a.co/d/5TIGcyw)

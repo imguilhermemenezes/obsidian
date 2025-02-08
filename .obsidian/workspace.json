@@ -11,10 +11,14 @@
             "id": "cb96494b0037895d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lista de Desejos/Produtos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Produtos"
             }
           }
         ]
@@ -108,12 +112,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Lista de Desejos/Produtos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Produtos"
             }
           },
           {
@@ -236,8 +241,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a960fa84820cc80",
+  "active": "cb96494b0037895d",
   "lastOpenFiles": [
+    "Lista de Desejos/Lista de Compras.md",
     "Cursinho-Concurso/Legislação",
     "Untitled",
     "Cursinho-Concurso",
@@ -248,7 +254,6 @@
     "Daily/Academia.md",
     "Daily/2024-12-08.md",
     "Daily/2024-12-09.md",
-    "Lista de Desejos/Lista de Compras.md",
     "Lista de Desejos/Produtos.md",
     "Agenda.md",
     "Livros I.md",
@@ -273,7 +278,6 @@
     "Lista de Desejos",
     "Templates",
     "Financeiro/2 - Investimentos",
-    "Financeiro/1 - Fundamentos",
     "Imgs/Pasted image 20241021120735.png",
     "Programação/Cube Academy/Sem título.canvas",
     "Pasted image 20241020220856.png",
